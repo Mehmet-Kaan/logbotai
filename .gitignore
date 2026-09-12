@@ -1,0 +1,16 @@
+**/node_modules/
+**/build/
+**/.firebase/
+**/.DS_Store
+
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+
+logbotai-git-backup/
+logbotai-inner-git-backup/
+agent-skills/
+logbotai-related/
+motesprotokoll/
+logbotai-backend-git-backup/

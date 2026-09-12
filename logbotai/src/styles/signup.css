@@ -1,0 +1,198 @@
+/* =========================================================
+   LogBot AI — Sign Up Styles
+   ========================================================= */
+
+.auth-page-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  padding: 2rem 1.5rem;
+}
+
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 460px;
+  padding: 2.5rem 2.25rem;
+  background: var(--glass-bg-solid);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border-radius: var(--radius-2xl);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 20px 40px -10px rgba(15, 23, 42, 0.12);
+  color: var(--color-slate-900);
+}
+
+.auth-brand-head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1.75rem;
+  text-align: center;
+}
+
+.auth-brand-logo {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--color-midnight) 0%, #3730a3 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  box-shadow: 0 6px 16px rgba(30, 27, 75, 0.25);
+  margin-bottom: 0.75rem;
+}
+
+.auth-container h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--color-midnight);
+  letter-spacing: -0.02em;
+  margin-bottom: 0.25rem;
+}
+
+.auth-subtitle {
+  font-size: 0.85rem;
+  color: var(--color-slate-500);
+}
+
+.auth-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.auth-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  text-align: left;
+}
+
+.label-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.auth-container label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--color-slate-700);
+}
+
+.valid {
+  color: #16a34a;
+  font-size: 0.85rem;
+}
+
+.invalid {
+  color: #dc2626;
+  font-size: 0.85rem;
+}
+
+.hide {
+  display: none;
+}
+
+.auth-container input {
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-slate-200);
+  background: var(--color-slate-50);
+  color: var(--color-slate-900);
+  font-size: 0.925rem;
+  outline: none;
+  box-shadow: var(--shadow-inset);
+  transition: var(--transition-fast);
+}
+
+.auth-container input:focus {
+  background: #ffffff;
+  border-color: var(--color-indigo-500);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+.instructions {
+  font-size: 0.75rem;
+  color: var(--color-slate-600);
+  background: #f1f5f9;
+  border-left: 3px solid var(--color-indigo-500);
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  line-height: 1.4;
+  display: flex;
+  gap: 0.4rem;
+  align-items: flex-start;
+}
+
+.instructions svg {
+  color: var(--color-indigo-600);
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.auth-container button {
+  margin-top: 0.65rem;
+  padding: 0.85rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #ffffff;
+  background: linear-gradient(135deg, var(--color-midnight) 0%, #3730a3 100%);
+  border: none;
+  border-radius: var(--radius-full);
+  box-shadow: 0 4px 14px rgba(30, 27, 75, 0.25);
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.auth-container button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(30, 27, 75, 0.35);
+}
+
+.auth-container button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.auth-footer-text {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--color-slate-600);
+  margin-top: 1.5rem;
+}
+
+.auth-container a {
+  color: var(--color-indigo-600);
+  font-weight: 700;
+}
+
+.auth-container a:hover {
+  text-decoration: underline;
+}
+
+.errmsg {
+  background: #fee2e2;
+  border: 1px solid #fca5a5;
+  color: #b91c1c;
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-md);
+  font-size: 0.825rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.offscreen {
+  display: none;
+}
+
+.auth-container.loading {
+  opacity: 0.65;
+  pointer-events: none;
+}

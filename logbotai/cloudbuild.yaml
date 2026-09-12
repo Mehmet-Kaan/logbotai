@@ -1,0 +1,44 @@
+substitutions:
+  # Params with default values
+  _PROJECT_NAME: logbotai
+  _PROJECT_REGION: europe-west1
+  _MEMORY: 1Gi
+  _COCURRENCY: "40"
+  _TIMEOUT: "30"
+  _CONTAINER_REGION: eu.gcr.io
+  _TARGET_PROJECT: latest
+
+steps:
+  # Build Container image
+  - name: gcr.io/cloud-builders/docker
+    args:
+      - "build"
+      - "-t"
+      - "${_CONTAINER_REGION}/$PROJECT_ID/${_PROJECT_NAME}:${SHORT_SHA}"
+      - "."
+
+  # Push Container image to Container Repo
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      [
+        "push",
+        "${_CONTAINER_REGION}/$PROJECT_ID/${_PROJECT_NAME}:${SHORT_SHA}",
+      ]
+    # Deploy Container image to Cloud Run
+  - name: "gcr.io/cloud-builders/gcloud"
+    args:
+      - "run"
+      - "deploy"
+      - "${_PROJECT_NAME}"
+      - "--image"
+      - "${_CONTAINER_REGION}/$PROJECT_ID/${_PROJECT_NAME}:${SHORT_SHA}"
+      - "--region"
+      - "${_PROJECT_REGION}"
+      - "--platform"
+      - "managed"
+      - "--allow-unauthenticated"
+      - "--async"
+timeout: 1200s # extend timeout for build to 20 minutes
+options:
+  machineType: "UNSPECIFIED"
+  # machineType: "E1_HIGHCPU_8"
