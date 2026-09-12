@@ -1,0 +1,3374 @@
+[
+  {
+    "Name": "Affeldsække",
+    "Description": "70x125 L 50 my 6x25 stk",
+    "price": "200,00",
+    "cost": "122,00",
+    "group": "1",
+    "originalName": "Affeldsække 70x125 L 50 my 6x25 stk"
+  },
+  {
+    "Name": "Alu-folie",
+    "Description": "30 cm. 14 my. 1x4 stk.",
+    "price": "159,95",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Alu-folie 30 cm. 14 my. 1x4 stk."
+  },
+  {
+    "Name": "Alu-folie",
+    "Description": "30 cm. 11 my. 1000 gram. 1x4 stk.",
+    "price": "159,95",
+    "cost": "135,00",
+    "group": "1",
+    "originalName": "Alu-folie 30 cm. 11 my. 1000 gram. 1x4 stk."
+  },
+  {
+    "Name": "Alu-folie",
+    "Description": "45 cm. 14 my 1500 gram 1x4 stk.",
+    "price": "350,00",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Alu-folie 45 cm. 14 my 1500 gram 1x4 stk."
+  },
+  {
+    "Name": "Alu-folie",
+    "Description": "45 cm. 14 my. 1400 gram. 1x4 stk.",
+    "price": "299,95",
+    "cost": "180,00",
+    "group": "1",
+    "originalName": "Alu-folie 45 cm. 14 my. 1400 gram. 1x4 stk."
+  },
+  {
+    "Name": "Alubakke",
+    "Description": "845 ml (R1) 1x100 stk",
+    "price": "89,95",
+    "cost": "52,00",
+    "group": "1",
+    "originalName": "Alubakke 845 ml (R1) 1x100 stk"
+  },
+  {
+    "Name": "Alubakke",
+    "Description": "450 ml (R28) 1X100 stk.",
+    "price": "60,00",
+    "cost": "50,80",
+    "group": "1",
+    "originalName": "Alubakke 450 ml (R28)  1X100 stk."
+  },
+  {
+    "Name": "Alubakke",
+    "Description": "500 ml 7352 Lasagne 1x100 stk.",
+    "price": "60,00",
+    "cost": "59,06",
+    "group": "1",
+    "originalName": "Alubakke 500 ml 7352 Lasagne 1x100 stk."
+  },
+  {
+    "Name": "Aluform rundt",
+    "Description": "80x40 mm. 100ml. pr. pose.100stk.pr.ks.1000stk.",
+    "price": "49,95",
+    "cost": "26,00",
+    "group": "1",
+    "originalName": "Aluform rundt 80x40 mm. 100ml. pr. pose.100stk.pr.ks.1000stk."
+  },
+  {
+    "Name": "Alt-mulig-klud",
+    "Description": "38x38 cm, blå, 10 stk x20 pk.",
+    "price": "250,00",
+    "cost": "180,00",
+    "group": "1",
+    "originalName": "Alt-mulig-klud, 38x38 cm, blå, 10 stk x20 pk."
+  },
+  {
+    "Name": "Aromat",
+    "Description": "1000 gram.",
+    "price": "49,95",
+    "cost": "32,00",
+    "group": "1",
+    "originalName": "Aromat 1000 gram."
+  },
+  {
+    "Name": "Bagerposer",
+    "Description": "2,5 kg hvid 270c350 mm. 1x500 stk",
+    "price": "80,00",
+    "cost": "76,67",
+    "group": "1",
+    "originalName": "Bagerposer 2,5 kg hvid 270c350 mm. 1x500 stk"
+  },
+  {
+    "Name": "Basilikum",
+    "Description": "500 gram.",
+    "price": "35,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Basilikum 500 gram."
+  },
+  {
+    "Name": "Bestiklommer",
+    "Description": "m-tryk 90x290mm 1x2000 stk.",
+    "price": "160,00",
+    "cost": "113,13",
+    "group": "1",
+    "originalName": "Bestiklommer m-tryk 90x290mm 1x2000 stk."
+  },
+  {
+    "Name": "Bestikpose",
+    "Description": "papir model hvid 50gsm. 1x1000 stk",
+    "price": "80,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Bestikpose papir model hvid 50gsm. 1x1000 stk"
+  },
+  {
+    "Name": "fedtfjerner",
+    "Description": "(yag coz) 500 ml.12stk",
+    "price": "180,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "fedtfjerner (yag coz) 500 ml.12stk"
+  },
+  {
+    "Name": "Biotol køkken sprey",
+    "Description": "1000 ml.",
+    "price": "18,00",
+    "cost": "12,00",
+    "group": "1",
+    "originalName": "Biotol køkken sprey 1000 ml."
+  },
+  {
+    "Name": "Borddispenser",
+    "Description": "til serviet katrin easy 1 stk.",
+    "price": "90,00",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Borddispenser til serviet katrin easy 1 stk."
+  },
+  {
+    "Name": "Burger box",
+    "Description": "1x500 stk.",
+    "price": "250,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Burger box 1x500 stk."
+  },
+  {
+    "Name": "Burger lommer",
+    "Description": "16x16 cm 4 kg",
+    "price": "139,95",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Burger lommer 16x16 cm 4 kg"
+  },
+  {
+    "Name": "Burgerboks pap",
+    "Description": "120x120x8,2cm. 1x360 stk.",
+    "price": "644,00",
+    "cost": "310,00",
+    "group": "1",
+    "originalName": "Burgerboks pap 120x120x8,2cm. 1x360 stk."
+  },
+  {
+    "Name": "Burger",
+    "Description": "papir m/logo 30x40 cm 1x1000 stk",
+    "price": "139,95",
+    "cost": "96,00",
+    "group": "1",
+    "originalName": "Burger  papir m/logo 30x40 cm 1x1000 stk"
+  },
+  {
+    "Name": "Burger lommer",
+    "Description": "13x13 cm 1x2000 stk.",
+    "price": "100,00",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Burger lommer 13x13 cm 1x2000 stk."
+  },
+  {
+    "Name": "Karry",
+    "Description": "1000 gram",
+    "price": "59,95",
+    "cost": "44,00",
+    "group": "1",
+    "originalName": "Karry 1000 gram"
+  },
+  {
+    "Name": "Cemen Bukkehorn",
+    "Description": "1000 gram.",
+    "price": "50,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Cemen Bukkehorn 1000 gram."
+  },
+  {
+    "Name": "Chili knust",
+    "Description": "1000 gram",
+    "price": "59,95",
+    "cost": "44,00",
+    "group": "1",
+    "originalName": "Chili knust 1000 gram"
+  },
+  {
+    "Name": "Chili pulver",
+    "Description": "5 kg",
+    "price": "299,95",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Chili pulver 5 kg"
+  },
+  {
+    "Name": "Dispenser servietter",
+    "Description": "17x21 hvid senta 1x3600 stk.",
+    "price": "110,00",
+    "cost": "76,67",
+    "group": "1",
+    "originalName": "Dispenser servietter 17x21 hvid senta 1x3600 stk."
+  },
+  {
+    "Name": "Dispenser til papir tork stor",
+    "price": "200,00",
+    "cost": "196,77",
+    "group": "1",
+    "originalName": "Dispenser til papir tork stor"
+  },
+  {
+    "Name": "Dobbelt burgerboks",
+    "Description": "1x500 stk",
+    "price": "250,00",
+    "cost": "57,60",
+    "group": "1",
+    "originalName": "Dobbelt burgerboks 1x500 stk"
+  },
+  {
+    "Name": "Dressingbæger",
+    "Description": "50 ml, 1x1000 stk.",
+    "price": "89,95",
+    "cost": "67,50",
+    "group": "1",
+    "originalName": "Dressingbæger 50 ml, 1x1000 stk."
+  },
+  {
+    "Name": "Dressingbæger",
+    "Description": "80 ml, 1x1000 stk.",
+    "price": "349,95",
+    "cost": "170,00",
+    "group": "1",
+    "originalName": "Dressingbæger 80 ml, 1x1000 stk."
+  },
+  {
+    "Name": "Dressingbæger med hængslet låg",
+    "Description": "30 ml, 1x1000 stk.",
+    "price": "200,00",
+    "cost": "150,00",
+    "group": "1",
+    "originalName": "Dressingbæger med hængslet låg 30 ml, 1x1000 stk."
+  },
+  {
+    "Name": "Drikkeglas klar PET",
+    "Description": "30 cl, 1x1000 stk.",
+    "price": "1 350,00",
+    "cost": "1 095,00",
+    "group": "1",
+    "originalName": "Drikkeglas klar PET 30 cl, 1x1000 stk."
+  },
+  {
+    "Name": "Drikkeglas klar PET",
+    "Description": "50 cl, 1x1000 stk.",
+    "price": "1 500,00",
+    "cost": "1 200,00",
+    "group": "1",
+    "originalName": "Drikkeglas klar PET 50 cl, 1x1000 stk."
+  },
+  {
+    "Name": "Elastikker",
+    "Description": "0,80x1,5x1 mm (51 mmø) 1x3000 stk.",
+    "price": "75,00",
+    "cost": "42,00",
+    "group": "1",
+    "originalName": "Elastikker 0,80x1,5x1 mm (51 mmø) 1x3000 stk."
+  },
+  {
+    "Name": "Elastikker",
+    "Description": "1 kg brun 70-75% naturgummi 1x3000 stk.",
+    "price": "79,95",
+    "cost": "42,00",
+    "group": "1",
+    "originalName": "Elastikker 1 kg brun 70-75% naturgummi 1x3000 stk."
+  },
+  {
+    "Name": "Flydende Vaskemiddel",
+    "Description": "4,08lt",
+    "price": "56,00",
+    "cost": "40,00",
+    "group": "1",
+    "originalName": "Flydende Vaskemiddel 4,08lt"
+  },
+  {
+    "Name": "Focus dispenser servietter",
+    "Description": "1x3600 stk.",
+    "price": "100,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Focus dispenser servietter 1x3600 stk."
+  },
+  {
+    "Name": "Focus dispenser servietter",
+    "Description": "350x12, 1x4200 stk",
+    "price": "120,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Focus dispenser servietter 350x12, 1x4200 stk"
+  },
+  {
+    "Name": "Focus optimum Z fold",
+    "Description": "200x12 stk",
+    "price": "120,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Focus optimum Z fold 200x12 stk"
+  },
+  {
+    "Name": "Hotdog pose",
+    "Description": "19X7cm med fals 1x1000stk",
+    "price": "99,95",
+    "cost": "72,00",
+    "group": "1",
+    "originalName": "Hotdog pose 19X7cm med fals 1x1000stk"
+  },
+  {
+    "Name": "Franskbrød poser",
+    "Description": "(424) almindelig  1000 stk. 35gsm 140+60x360 med sidefals.",
+    "price": "159,95",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Franskbrød poser (424) almindelig  1000 stk. 35gsm 140+60x360 med sidefals."
+  },
+  {
+    "Name": "Gaffel træ",
+    "Description": "1x1000 stk",
+    "price": "350,00",
+    "cost": "260,00",
+    "group": "1",
+    "originalName": "Gaffel træ 1x1000 stk"
+  },
+  {
+    "Name": "Glas rens",
+    "Description": "1000 ml 1x8 stk",
+    "price": "12,00",
+    "cost": "9,20",
+    "group": "1",
+    "originalName": "Glas rens 1000 ml 1x8 stk"
+  },
+  {
+    "Name": "Gulvrens",
+    "Description": "5 liter",
+    "price": "70,00",
+    "cost": "50,33",
+    "group": "1",
+    "originalName": "Gulvrens 5 liter"
+  },
+  {
+    "Name": "Hvedemel type 00",
+    "Description": "25 kg",
+    "price": "109,90",
+    "cost": "101,21",
+    "group": "1",
+    "originalName": "Hvedemel type 00, 25 kg"
+  },
+  {
+    "Name": "Hvidløg",
+    "Description": "1000 gram",
+    "price": "59,95",
+    "cost": "44,00",
+    "group": "1",
+    "originalName": "Hvidløg 1000 gram"
+  },
+  {
+    "Name": "Hvælvet låg til PET Drikkeglas",
+    "Description": "30,40,50 cl. 1x1000 stk.",
+    "price": "480,00",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Hvælvet låg til PET Drikkeglas 30,40,50 cl. 1x1000 stk."
+  },
+  {
+    "Name": "Håndgel Aloe vera-Antibakterial",
+    "Description": "300 ml pr.stk",
+    "price": "10,00",
+    "cost": "8,00",
+    "group": "1",
+    "originalName": "Håndgel Aloe vera-Antibakterial 300 ml pr.stk"
+  },
+  {
+    "Name": "Håndklædeark z-fold",
+    "Description": "15x200   3000 stk",
+    "price": "160,00",
+    "cost": "135,06",
+    "group": "1",
+    "originalName": "Håndklædeark z-fold 15x200   3000 stk"
+  },
+  {
+    "Name": "Håndklædeark z-fold",
+    "Description": "4000 stk",
+    "price": "200,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Håndklædeark z-fold 4000 stk"
+  },
+  {
+    "Name": "Håndsæbe pruva",
+    "Description": "(el sabunu) 500 ml, 1x12 stk.",
+    "price": "80,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Håndsæbe pruva  (el sabunu) 500 ml, 1x12 stk."
+  },
+  {
+    "Name": "Håndklædeark z-fold",
+    "Description": "9000 stk",
+    "price": "250,00",
+    "cost": "217,10",
+    "group": "1",
+    "originalName": "Håndklædeark z-fold 9000 stk"
+  },
+  {
+    "Name": "Håndsæbe",
+    "Description": "4000 ml  1x4 stk",
+    "price": "40,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Håndsæbe 4000 ml  1x4 stk"
+  },
+  {
+    "Name": "Just one servietter",
+    "Description": "1x8000 stk.",
+    "price": "299,95",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Just one servietter 1x8000 stk."
+  },
+  {
+    "Name": "Kebab box",
+    "Description": "26 oz 1x500 stk",
+    "price": "399,95",
+    "cost": "180,00",
+    "group": "1",
+    "originalName": "Kebab box 26 oz 1x500 stk"
+  },
+  {
+    "Name": "Klor",
+    "Description": "5 L",
+    "price": "40,00",
+    "cost": "29,00",
+    "group": "1",
+    "originalName": "Klor 5 L"
+  },
+  {
+    "Name": "Klorrens",
+    "Description": "4liter, 1x4stk",
+    "price": "160,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Klorrens 4liter, 1x4stk"
+  },
+  {
+    "Name": "Kokken ruller",
+    "Description": "1x12 stk",
+    "price": "149,95",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Kokken ruller 1x12 stk"
+  },
+  {
+    "Name": "Kokken ruller",
+    "Description": "1x6 stk",
+    "price": "149,95",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Kokken ruller 1x6 stk"
+  },
+  {
+    "Name": "Køkken spray",
+    "Description": "750 ml,(GUL) 1x12 stk.pr.ks",
+    "price": "200,00",
+    "cost": "150,00",
+    "group": "1",
+    "originalName": "Køkken spray 750 ml,(GUL) 1x12 stk.pr.ks"
+  },
+  {
+    "Name": "Lateks handske large natural",
+    "Description": "100 stk.pr.pk.1000 stk.pr.kasse",
+    "price": "70,00",
+    "cost": "25,00",
+    "group": "1",
+    "originalName": "Lateks handske large natural 100 stk.pr.pk.1000 stk.pr.kasse"
+  },
+  {
+    "Name": "Lateks handske medium natural",
+    "Description": "100 stk.pr.pk.1000 stk.pr.kasse",
+    "price": "70,00",
+    "cost": "25,00",
+    "group": "1",
+    "originalName": "Lateks handske medium  natural 100 stk.pr.pk.1000 stk.pr.kasse"
+  },
+  {
+    "Name": "Lateks handske small natural",
+    "Description": "100 stk.pr.pk.1000 stk.pr.kasse",
+    "price": "70,00",
+    "cost": "25,00",
+    "group": "1",
+    "originalName": "Lateks handske small natural 100 stk.pr.pk.1000 stk.pr.kasse"
+  },
+  {
+    "Name": "Låg til alu bakke",
+    "Description": "845 ml (R1) 1x100 stk",
+    "price": "29,95",
+    "cost": "16,00",
+    "group": "1",
+    "originalName": "Låg til  alu bakke 845 ml (R1) 1x100 stk"
+  },
+  {
+    "Name": "Låg til dressingbæger",
+    "Description": "50,80, ml,1x1000 stk.",
+    "price": "149,95",
+    "cost": "66,00",
+    "group": "1",
+    "originalName": "Låg til dressingbæger 50,80, ml,1x1000 stk."
+  },
+  {
+    "Name": "Låg til rundt",
+    "Description": "110 ml, 100 stk",
+    "price": "29,95",
+    "cost": "16,00",
+    "group": "1",
+    "originalName": "Låg til rundt 110 ml, 100 stk"
+  },
+  {
+    "Name": "Mexico mix",
+    "Description": "1000 gram",
+    "price": "49,95",
+    "cost": "36,00",
+    "group": "1",
+    "originalName": "Mexico mix 1000 gram"
+  },
+  {
+    "Name": "Multiboks med låg sort /klar",
+    "Description": "230x230x50mm 190 stk.ks",
+    "price": "800,00",
+    "cost": "600,00",
+    "group": "1",
+    "originalName": "Multiboks med låg sort /klar 230x230x50mm 190 stk.ks"
+  },
+  {
+    "Name": "Multiboks med låg sort/klar",
+    "Description": "190x190x60mm 270 stk./ks",
+    "price": "500,00",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Multiboks med låg sort/klar 190x190x60mm 270 stk./ks"
+  },
+  {
+    "Name": "Nitril handske, Str. L, sort, sensitive",
+    "Description": "10x100 pr.ks, pudderfri",
+    "price": "500,00",
+    "cost": "451,89",
+    "group": "1",
+    "originalName": "Nitril handske, Str. L, sort, sensitive, 10x100 pr.ks, pudderfri"
+  },
+  {
+    "Name": "Opvaskemiddel Classic",
+    "Description": "750 ml 1x16 stk",
+    "price": "150,00",
+    "cost": "120,57",
+    "group": "1",
+    "originalName": "Opvaskemiddel Classic 750 ml 1x16 stk"
+  },
+  {
+    "Name": "Opvaskemiddel Lemon",
+    "Description": "750 ml 1x16 stk",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Opvaskemiddel Lemon 750 ml 1x16 stk"
+  },
+  {
+    "Name": "Oregano",
+    "Description": "500 gram",
+    "price": "39,95",
+    "cost": "33,00",
+    "group": "1",
+    "originalName": "Oregano 500 gram"
+  },
+  {
+    "Name": "Ovn og Grillrens",
+    "Description": "1 Liter",
+    "price": "25,00",
+    "cost": "23,14",
+    "group": "1",
+    "originalName": "Ovn og Grillrens 1 Liter"
+  },
+  {
+    "Name": "Papirpose med hank",
+    "Description": "21lt 250 stk",
+    "price": "360,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Papirpose med hank 21lt 250 stk"
+  },
+  {
+    "Name": "Papirposer",
+    "Description": "17 liter  350x170x245mm , 250 stk",
+    "price": "650,00",
+    "cost": "500,00",
+    "group": "1",
+    "originalName": "Papirposer 17 liter  350x170x245mm , 250 stk"
+  },
+  {
+    "Name": "Papirspose uden hank",
+    "Description": "13 L 200 stk pr.ks",
+    "price": "250,00",
+    "cost": "144,00",
+    "group": "1",
+    "originalName": "Papirspose uden hank 13 L 200 stk pr.ks"
+  },
+  {
+    "Name": "Paprika",
+    "Description": "5 kg",
+    "price": "299,95",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Paprika 5 kg"
+  },
+  {
+    "Name": "Pergament papir",
+    "Description": "37,5x50 cm 10 kg",
+    "price": "300,00",
+    "cost": "175,00",
+    "group": "1",
+    "originalName": "Pergament papir 37,5x50 cm 10 kg"
+  },
+  {
+    "Name": "Persille",
+    "Description": "500 gram",
+    "price": "39,95",
+    "cost": "33,00",
+    "group": "1",
+    "originalName": "Persille 500 gram"
+  },
+  {
+    "Name": "HF Pizzæske",
+    "Description": "30*30*3 cm  100 stk",
+    "price": "99,95",
+    "cost": "73,23",
+    "group": "1",
+    "originalName": "HF Pizzæske 30*30*3 cm  100 stk"
+  },
+  {
+    "Name": "Pommes Frites Bakke",
+    "Description": "( 0 ), 100 stk.pr.ps. 500 stk",
+    "price": "250,00",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Pommes Frites Bakke ( 0 ), 100 stk.pr.ps. 500 stk"
+  },
+  {
+    "Name": "Pommes Frites Bakke",
+    "Description": "( 1 ), 100 stk.pr.ps. 500 stk",
+    "price": "250,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Pommes Frites Bakke ( 1 ), 100 stk.pr.ps. 500 stk"
+  },
+  {
+    "Name": "Pommes Frites Bakke",
+    "Description": "( 2 ), 100 stk.pr.ps. 500 stk",
+    "price": "300,00",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Pommes Frites Bakke ( 2 ), 100 stk.pr.ps. 500 stk"
+  },
+  {
+    "Name": "Pommes frites bakke",
+    "Description": "00 brun 5*100stk",
+    "price": "320,00",
+    "cost": "275,00",
+    "group": "1",
+    "originalName": "Pommes frites bakke 00 brun 5*100stk"
+  },
+  {
+    "Name": "Pommes Frites Bakke",
+    "Description": "02 BRUN 100 stk.pr.ps. 500 stk",
+    "price": "450,00",
+    "cost": "343,75",
+    "group": "1",
+    "originalName": "Pommes Frites Bakke 02 BRUN 100 stk.pr.ps. 500 stk"
+  },
+  {
+    "Name": "Pølse bakke",
+    "Description": "01 m/låg 5x80 stk",
+    "price": "249,95",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Pølse bakke 01 m/låg 5x80 stk"
+  },
+  {
+    "Name": "Pølse bakke",
+    "Description": "00  m/låg 4x100 stk",
+    "price": "199,95",
+    "cost": "130,00",
+    "group": "1",
+    "originalName": "Pølse bakke 00  m/låg 4x100 stk"
+  },
+  {
+    "Name": "Pølseæske m/låg small",
+    "Description": "(2) 1x400 stk",
+    "price": "249,95",
+    "cost": "145,00",
+    "group": "1",
+    "originalName": "Pølseæske m/låg small (2) 1x400 stk"
+  },
+  {
+    "Name": "Pølseæske m/låg medium",
+    "Description": "1x400 stk",
+    "price": "299,95",
+    "cost": "182,00",
+    "group": "1",
+    "originalName": "Pølseæske m/låg medium 1x400 stk"
+  },
+  {
+    "Name": "Pølsemandes servietter",
+    "price": "270,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Pølsemandes servietter"
+  },
+  {
+    "Name": "Pvc film",
+    "Description": "30 cm 1x4 stk",
+    "price": "150,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Pvc film 30 cm 1x4 stk"
+  },
+  {
+    "Name": "Pvc film",
+    "Description": "45 cm 1x4 stk",
+    "price": "250,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Pvc film 45 cm 1x4 stk"
+  },
+  {
+    "Name": "Pvc film",
+    "Description": "60 cm 1x4 stk",
+    "price": "400,00",
+    "cost": "175,00",
+    "group": "1",
+    "originalName": "Pvc film 60 cm 1x4 stk"
+  },
+  {
+    "Name": "PØLSEÆSKE (BIG)",
+    "Description": "4X100 stk",
+    "price": "300,00",
+    "cost": "215,00",
+    "group": "1",
+    "originalName": "PØLSEÆSKE (BIG) 4X100 stk"
+  },
+  {
+    "Name": "Salatbakker m/fast låg",
+    "Description": "250ml 100stk./pk. 6x100stk./",
+    "price": "350,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Salatbakker m/fast låg 250ml 100stk./pk. 6x100stk./"
+  },
+  {
+    "Name": "Salatbakker m/fast låg",
+    "Description": "375ml 100stk./pk. 6x100stk./",
+    "price": "350,00",
+    "cost": "245,00",
+    "group": "1",
+    "originalName": "Salatbakker m/fast låg 375ml 100stk./pk. 6x100stk./"
+  },
+  {
+    "Name": "Salatbakker m/fast låg",
+    "Description": "500ml 100stk./pk. 5x100stk./",
+    "price": "350,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Salatbakker m/fast låg 500ml 100stk./pk. 5x100stk./"
+  },
+  {
+    "Name": "Salatbakker m/fast låg",
+    "Description": "750ml 100stk./pk. 4x100stk./",
+    "price": "350,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Salatbakker m/fast låg 750ml 100stk./pk. 4x100stk./"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "33*33 cm 1 lags",
+    "price": "139,95",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Servietter 33*33 cm 1 lags"
+  },
+  {
+    "Name": "Shawarma krydderi",
+    "Description": "1000 gram",
+    "price": "59,95",
+    "cost": "38,11",
+    "group": "1",
+    "originalName": "Shawarma krydderi 1000 gram"
+  },
+  {
+    "Name": "Soft Water kildevand",
+    "Description": "0.5 l, 20 stk m/pant",
+    "price": "66,00",
+    "cost": "52,40",
+    "group": "1",
+    "originalName": "Soft Water kildevand, 0.5 l, 20 stk m/pant"
+  },
+  {
+    "Name": "Sort peber",
+    "Description": "1000 gram",
+    "price": "99,95",
+    "cost": "76,00",
+    "group": "1",
+    "originalName": "Sort peber 1000 gram"
+  },
+  {
+    "Name": "Termobakke",
+    "Description": "1 rums 1x250 stk",
+    "price": "250,00",
+    "cost": "198,00",
+    "group": "1",
+    "originalName": "Termobakke 1 rums 1x250 stk"
+  },
+  {
+    "Name": "Termobakke",
+    "Description": "2 rums 1x250 stk",
+    "price": "250,00",
+    "cost": "192,00",
+    "group": "1",
+    "originalName": "Termobakke 2 rums 1x250 stk"
+  },
+  {
+    "Name": "Termobakke",
+    "Description": "3 rums 1x250 stk",
+    "price": "250,00",
+    "cost": "198,00",
+    "group": "1",
+    "originalName": "Termobakke 3 rums 1x250 stk"
+  },
+  {
+    "Name": "Thermal (Denkort) rolles",
+    "Description": "57*14 m 100 stk",
+    "price": "250,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Thermal (Denkort) rolles 57*14 m 100 stk"
+  },
+  {
+    "Name": "Thermal (kasse) rolles",
+    "Description": "80*75 m 30 stk",
+    "price": "300,00",
+    "cost": "170,00",
+    "group": "1",
+    "originalName": "Thermal (kasse) rolles 80*75 m 30 stk"
+  },
+  {
+    "Name": "Toiletpapir mini",
+    "Description": "150 m 12 stk",
+    "price": "170,00",
+    "cost": "116,15",
+    "group": "1",
+    "originalName": "Toiletpapir mini 150 m 12 stk"
+  },
+  {
+    "Name": "Varm poser thermo (grillposer)-",
+    "Description": "160x60x315mm - 250 stk",
+    "price": "140,00",
+    "cost": "96,00",
+    "group": "1",
+    "originalName": "Varm poser thermo (grillposer)- 160x60x315mm - 250 stk"
+  },
+  {
+    "Name": "Salatbakke sort",
+    "Description": "19x19x6 cm D 250 stk .pr. ks",
+    "price": "600,00",
+    "cost": "420,00",
+    "group": "1",
+    "originalName": "Salatbakke sort 19x19x6 cm D 250 stk .pr. ks"
+  },
+  {
+    "Name": "Slatbakke sort",
+    "Description": "16x16x6 cm D 405 stk. pr. kasse",
+    "price": "600,00",
+    "cost": "440,00",
+    "group": "1",
+    "originalName": "Slatbakke sort 16x16x6 cm D 405 stk. pr. kasse"
+  },
+  {
+    "Name": "Alubakke R 14",
+    "Description": "1000 stk.",
+    "price": "650,00",
+    "cost": "540,00",
+    "group": "1",
+    "originalName": "Alubakke R 14 1000 stk."
+  },
+  {
+    "Name": "Låg til R14",
+    "Description": "10X100 (1000) stk.",
+    "price": "200,00",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Låg til R14 10X100 (1000) stk."
+  },
+  {
+    "Name": "Vegetar",
+    "Description": "1000gr",
+    "price": "49,95",
+    "cost": "32,00",
+    "group": "1",
+    "originalName": "Vegetar 1000gr"
+  },
+  {
+    "Name": "Kebab box pr.kasse",
+    "Description": "375 stk.",
+    "price": "300,00",
+    "cost": "232,67",
+    "group": "1",
+    "originalName": "Kebab box pr.kasse 375 stk."
+  },
+  {
+    "Name": "EUR Palle",
+    "price": "65,00",
+    "cost": "46,22",
+    "group": "1",
+    "originalName": "EUR Palle"
+  },
+  {
+    "Name": "Rengøringsmiddel",
+    "Description": "(yer sabunu) pink 4x5lt",
+    "price": "150,00",
+    "cost": "114,54",
+    "group": "1",
+    "originalName": "Rengøringsmiddel (yer sabunu) pink 4x5lt"
+  },
+  {
+    "Name": "Abreissbeutel, LDPE, geblockt",
+    "Description": "30x40+4cm, transparent, 5 Kg./Karton",
+    "price": "380,00",
+    "cost": "157,97",
+    "group": "1",
+    "originalName": "Abreissbeutel, LDPE, geblockt 30x40+4cm, transparent, 5 Kg./Karton"
+  },
+  {
+    "Name": "Tandori masala",
+    "price": "40,00",
+    "cost": "39,62",
+    "group": "1",
+    "originalName": "Tandori masala"
+  },
+  {
+    "Name": "Burgerlommer Braun",
+    "Description": "17x15cm 1000 stk",
+    "price": "80,00",
+    "cost": "65,00",
+    "group": "1",
+    "originalName": "Burgerlommer Braun 17x15cm 1000 stk"
+  },
+  {
+    "Name": "Burgerpapir Braun",
+    "Description": "33x42cm - 4,5 kg /pk",
+    "price": "140,00",
+    "cost": "121,41",
+    "group": "1",
+    "originalName": "Burgerpapir Braun 33x42cm - 4,5 kg /pk"
+  },
+  {
+    "Name": "Papirposer",
+    "Description": "17 liter Braun 250x170x250mm. -250 stk./ks.",
+    "price": "600,00",
+    "cost": "470,00",
+    "group": "1",
+    "originalName": "Papirposer 17 liter Braun 250x170x250mm. -250 stk./ks."
+  },
+  {
+    "Name": "Lunch Box",
+    "Description": "3-rums, transparent - 264 stk./ks.",
+    "price": "300,00",
+    "cost": "311,66",
+    "group": "1",
+    "originalName": "Lunch Box 3-rums, transparent - 264 stk./ks."
+  },
+  {
+    "Name": "Nitril handsker",
+    "Description": "medium -100 stk./pk. - 1000 stk./ks.",
+    "price": "80,00",
+    "cost": "44,94",
+    "group": "1",
+    "originalName": "Nitril handsker  medium -100 stk./pk. - 1000 stk./ks."
+  },
+  {
+    "Name": "Nitril handsker",
+    "Description": "small- 100 stk./pk- 1000 stk./ks.",
+    "price": "80,00",
+    "cost": "40,00",
+    "group": "1",
+    "originalName": "Nitril handsker small- 100 stk./pk- 1000 stk./ks."
+  },
+  {
+    "Name": "Sugerør med knæk",
+    "Description": "rød/hvid-100 stk./pk.",
+    "price": "5,00",
+    "cost": "5,20",
+    "group": "1",
+    "originalName": "Sugerør med knæk, rød/hvid-100 stk./pk."
+  },
+  {
+    "Name": "Aromat",
+    "Description": "5 kg ./spand",
+    "price": "250,00",
+    "cost": "144,00",
+    "group": "1",
+    "originalName": "Aromat 5 kg ./spand"
+  },
+  {
+    "Name": "Affadssække",
+    "Description": "- 200 stk./ks.",
+    "price": "150,00",
+    "cost": "143,00",
+    "group": "1",
+    "originalName": "Affadssække - 200 stk./ks."
+  },
+  {
+    "Name": "Mynte Skåret",
+    "Description": "1 kg.",
+    "price": "60,00",
+    "cost": "56,00",
+    "group": "1",
+    "originalName": "Mynte Skåret 1 kg."
+  },
+  {
+    "Name": "Gastronormbakke",
+    "Description": "1/2 3600 ml.- m/rullekant 321x261x60mm",
+    "price": "3,00",
+    "cost": "2,67",
+    "group": "1",
+    "originalName": "Gastronormbakke 1/2 3600 ml.- m/rullekant 321x261x60mm"
+  },
+  {
+    "Name": "Alu-låg t/Gastronormbakke",
+    "Description": "1/2 2460 ml. & 3600ml. 322x262x18mm",
+    "price": "2,00",
+    "cost": "1,16",
+    "group": "1",
+    "originalName": "Alu-låg t/Gastronormbakke 1/2 2460 ml. & 3600ml. 322x262x18mm"
+  },
+  {
+    "Name": "Sumak",
+    "Description": "1 kg",
+    "price": "50,00",
+    "cost": "40,60",
+    "group": "1",
+    "originalName": "Sumak 1 kg"
+  },
+  {
+    "Name": "Spidskommen",
+    "Description": "1 kg.",
+    "price": "50,00",
+    "cost": "43,93",
+    "group": "1",
+    "originalName": "Spidskommen 1 kg."
+  },
+  {
+    "Name": "Plastbakke",
+    "Description": "19x19x6cm, 640 ml, sort, PS, med hængslet låg, octaview",
+    "price": "500,00",
+    "cost": "404,32",
+    "group": "1",
+    "originalName": "Plastbakke, 19x19x6cm, 640 ml, sort, PS, med hængslet låg, octaview"
+  },
+  {
+    "Name": "Salatbakke sort",
+    "Description": "16x16x6 cm d 300 stk.pr.ks.",
+    "price": "450,00",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Salatbakke sort 16x16x6 cm d 300 stk.pr.ks."
+  },
+  {
+    "Name": "Paptallerkner",
+    "Description": "23 cm - 100 stk.pr.ps 5x100 stk./ks.",
+    "price": "100,00",
+    "cost": "82,50",
+    "group": "1",
+    "originalName": "Paptallerkner 23 cm - 100 stk.pr.ps 5x100 stk./ks."
+  },
+  {
+    "Name": "Plast Kniv HVID",
+    "Description": "100 stk./ps.",
+    "price": "30,00",
+    "cost": "24,00",
+    "group": "1",
+    "originalName": "Plast Kniv HVID - 100 stk./ps."
+  },
+  {
+    "Name": "Plast Gaffel, HVID",
+    "Description": "100 stk./ps.",
+    "price": "30,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Plast Gaffel, HVID - 100 stk./ps."
+  },
+  {
+    "Name": "SIO Opvaskemiddel",
+    "Description": "750 ml. - 12 stk./ks.",
+    "price": "8,00",
+    "cost": "6,00",
+    "group": "1",
+    "originalName": "SIO Opvaskemiddel 750 ml. - 12 stk./ks."
+  },
+  {
+    "Name": "Plastkrus Hvid",
+    "Description": "21 cl -100 stk./ps.3000 stk./ks.",
+    "price": "25,00",
+    "cost": "22,65",
+    "group": "1",
+    "originalName": "Plastkrus Hvid-21 cl -100 stk./ps.3000 stk./ks."
+  },
+  {
+    "Name": "Schweppesindian tonic",
+    "Description": "plast, 0,5 l.,24 stk.,m/pant.",
+    "price": "260,00",
+    "cost": "213,80",
+    "group": "1",
+    "originalName": "Schweppesindian tonic,, plast, 0,5 l.,24 stk.,m/pant."
+  },
+  {
+    "Name": "Franskbrødposer typ 635",
+    "Description": "20+7x36cm, 1000 stk,pr/ks",
+    "price": "250,00",
+    "cost": "188,62",
+    "group": "1",
+    "originalName": "Franskbrødposer typ 635, 20+7x36cm, 1000 stk,pr/ks"
+  },
+  {
+    "Name": "Afrivningsposer",
+    "Description": "30x40+4cm transparent, 5 kg",
+    "price": "250,00",
+    "cost": "153,00",
+    "group": "1",
+    "originalName": "Afrivningsposer 30x40+4cm transparent, 5 kg"
+  },
+  {
+    "Name": "Stretch-folie",
+    "Description": "500 mm 20 my, 1x6 stk",
+    "price": "240,00",
+    "cost": "181,18",
+    "group": "1",
+    "originalName": "Stretch-folie 500 mm 20 my, 1x6 stk"
+  },
+  {
+    "Name": "Alu-Bakke",
+    "Description": "550ml. 160x160x32mm. 100 stk./ps. - 1000 stk./ks.",
+    "price": "50,00",
+    "cost": "50,99",
+    "group": "1",
+    "originalName": "Alu-Bakke 550ml. 160x160x32mm. 100 stk./ps. - 1000 stk./ks."
+  },
+  {
+    "Name": "Lunch box 2 rums",
+    "Description": "transparent 396 stk",
+    "price": "443,00",
+    "cost": "410,64",
+    "group": "1",
+    "originalName": "Lunch box 2 rums transparent 396 stk"
+  },
+  {
+    "Name": "Tuborg squash, dåse",
+    "Description": "0,33 l., 24 stk. m/pant.",
+    "price": "100,00",
+    "cost": "80,20",
+    "group": "1",
+    "originalName": "Tuborg squash, dåse, 0,33 l., 24 stk. m/pant."
+  },
+  {
+    "Name": "Grillrens",
+    "Description": "5 liter",
+    "price": "80,00",
+    "cost": "63,55",
+    "group": "1",
+    "originalName": "Grillrens 5 liter"
+  },
+  {
+    "Name": "Bagerposer 2,0 kg hvid",
+    "Description": "200x350 mm. -1000 stk./pk.",
+    "price": "140,00",
+    "cost": "124,00",
+    "group": "1",
+    "originalName": "Bagerposer 2,0 kg hvid 200x350 mm. -1000 stk./pk."
+  },
+  {
+    "Name": "Låg til alubakke 450 ml.",
+    "Description": "100 stk.",
+    "price": "15,00",
+    "cost": "9,98",
+    "group": "1",
+    "originalName": "Låg til alubakke 450 ml. 100 stk."
+  },
+  {
+    "Name": "Låg t/Smoothie glas",
+    "Description": "30cl. 40cl, 50cl, klar - 100 stk./ps.",
+    "price": "40,00",
+    "cost": "50,55",
+    "group": "1",
+    "originalName": "Låg t/Smoothie glas 30cl. 40cl, 50cl, klar - 100 stk./ps."
+  },
+  {
+    "Name": "Smoothie glas, klar, blød, 40cl",
+    "Description": "2x50 stk./ps.1000stk.",
+    "price": "150,00",
+    "cost": "130,00",
+    "group": "1",
+    "originalName": "Smoothie glas, klar, blød, 40cl - 2x50 stk./ps.1000stk."
+  },
+  {
+    "Name": "Smoothie glas, klar, blød, 50cl",
+    "Description": "50 stk./ps. 1000 stk./ps.",
+    "price": "90,00",
+    "cost": "174,04",
+    "group": "1",
+    "originalName": "Smoothie glas, klar, blød, 50cl- 50 stk./ps. 1000 stk./ps."
+  },
+  {
+    "Name": "Serviet 3-lags, 1/8 fold,hvid",
+    "Description": "40x40cm-1000 stk./ks.",
+    "price": "160,00",
+    "cost": "150,41",
+    "group": "1",
+    "originalName": "Serviet 3-lags, 1/8 fold,hvid, 40x40cm-1000 stk./ks."
+  },
+  {
+    "Name": "Kopholder bakke pap til 2 bægre",
+    "Description": "21x11x4cm natur -6 ps.x90 stk/ks.",
+    "price": "30,00",
+    "cost": "51,80",
+    "group": "1",
+    "originalName": "Kopholder bakke pap til 2 bægre 21x11x4cm natur -6 ps.x90 stk/ks."
+  },
+  {
+    "Name": "Sugerør sort u. knæk",
+    "Description": "8x250mm -100 stk./pk.",
+    "price": "20,00",
+    "cost": "12,00",
+    "group": "1",
+    "originalName": "Sugerør sort u. knæk, 8x250mm -100 stk./pk."
+  },
+  {
+    "Name": "Visier",
+    "Description": "",
+    "price": "19,95",
+    "cost": "9,00",
+    "group": "1",
+    "originalName": "Visier"
+  },
+  {
+    "Name": "Visier",
+    "Description": "",
+    "price": "20,00",
+    "cost": "9,00",
+    "group": "1",
+    "originalName": "Visier"
+  },
+  {
+    "Name": "Mundbind (mask)",
+    "Description": "10 stk",
+    "price": "20,00",
+    "cost": "4,78",
+    "group": "1",
+    "originalName": "Mundbind (mask) 10 stk"
+  },
+  {
+    "Name": "Fedt fjerner spray",
+    "Description": "750ml 12 stk.",
+    "price": "160,00",
+    "cost": "102,86",
+    "group": "1",
+    "originalName": "Fedt fjerner spray 750ml 12 stk."
+  },
+  {
+    "Name": "Tandstikkere",
+    "Description": "1000 stk.",
+    "price": "20,00",
+    "cost": "20,23",
+    "group": "1",
+    "originalName": "Tandstikkere 1000 stk."
+  },
+  {
+    "Name": "Kalyon opvaskemiddel citron",
+    "Description": "750ml 12 stk.",
+    "price": "80,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Kalyon opvaskemiddel citron 750ml 12 stk."
+  },
+  {
+    "Name": "Kalkfjerner (kireccozucu)",
+    "Description": "900ml 12 stk.",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Kalkfjerner (kireccozucu) 900ml 12 stk."
+  },
+  {
+    "Name": "Håndopvask",
+    "Description": "1 kg",
+    "price": "8,50",
+    "cost": "6,50",
+    "group": "1",
+    "originalName": "Håndopvask 1 kg"
+  },
+  {
+    "Name": "Afspænding neutral",
+    "Description": "10 kg",
+    "price": "188,00",
+    "cost": "95,00",
+    "group": "1",
+    "originalName": "Afspænding neutral 10 kg"
+  },
+  {
+    "Name": "Ovn og grillrens",
+    "Description": "5 kg",
+    "price": "75,00",
+    "cost": "44,89",
+    "group": "1",
+    "originalName": "Ovn og grillrens 5 kg"
+  },
+  {
+    "Name": "Håndsæbe",
+    "Description": "ca. 0,5kg",
+    "price": "8,75",
+    "cost": "6,25",
+    "group": "1",
+    "originalName": "Håndsæbe ca. 0,5kg"
+  },
+  {
+    "Name": "Maskineopvask u/klor",
+    "Description": "25kg",
+    "price": "238,00",
+    "cost": "125,00",
+    "group": "1",
+    "originalName": "Maskineopvask u/klor 25kg"
+  },
+  {
+    "Name": "Glasrens blå m/spray",
+    "Description": "750 ml",
+    "price": "10,00",
+    "cost": "8,00",
+    "group": "1",
+    "originalName": "Glasrens blå m/spray 750 ml"
+  },
+  {
+    "Name": "Håndklæderuller hvid",
+    "Description": "6 stk.",
+    "price": "100,00",
+    "cost": "80,90",
+    "group": "1",
+    "originalName": "Håndklæderuller hvid 6 stk."
+  },
+  {
+    "Name": "Toilet papr jumbo",
+    "Description": "12 stk",
+    "price": "150,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Toilet papr jumbo 12 stk"
+  },
+  {
+    "Name": "Sortsæk",
+    "Description": "",
+    "price": "8,00",
+    "cost": "6,00",
+    "group": "1",
+    "originalName": "Sortsæk"
+  },
+  {
+    "Name": "Toiletpapir 2-lags",
+    "Description": "3x16 stk.pr.kl.",
+    "price": "120,00",
+    "cost": "76,00",
+    "group": "1",
+    "originalName": "Toiletpapir 2-lags, 3x16 stk.pr.kl."
+  },
+  {
+    "Name": "Maskineopvask u/klor",
+    "Description": "24 kg",
+    "price": "250,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Maskineopvask u/klor 24 kg"
+  },
+  {
+    "Name": "Quick handsker (Large)",
+    "Description": "100x100 stk",
+    "price": "600,00",
+    "cost": "295,00",
+    "group": "1",
+    "originalName": "Quick handsker (Large) 100x100 stk"
+  },
+  {
+    "Name": "Hvælvetlåg",
+    "Description": "2000 stk oz16 m/hul",
+    "price": "500,00",
+    "cost": "359,00",
+    "group": "1",
+    "originalName": "Hvælvetlåg 2000 stk oz16 m/hul"
+  },
+  {
+    "Name": "Sugerør sort",
+    "Description": "1000 stk",
+    "price": "40,00",
+    "cost": "29,00",
+    "group": "1",
+    "originalName": "Sugerør sort 1000 stk"
+  },
+  {
+    "Name": "Sleeve t/kaffebæger oz12-16",
+    "Description": "1000 stk",
+    "price": "180,00",
+    "cost": "145,00",
+    "group": "1",
+    "originalName": "Sleeve t/kaffebæger oz12-16 1000 stk"
+  },
+  {
+    "Name": "Servietter lilla",
+    "Description": "8x250 stk",
+    "price": "250,00",
+    "cost": "190,00",
+    "group": "1",
+    "originalName": "Servietter lilla 8x250 stk"
+  },
+  {
+    "Name": "Timian tøre",
+    "Description": "1kg",
+    "price": "65,00",
+    "cost": "52,00",
+    "group": "1",
+    "originalName": "Timian tøre 1kg"
+  },
+  {
+    "Name": "Superbæger FC12",
+    "Description": "500 stk.",
+    "price": "300,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Superbæger FC12 500 stk."
+  },
+  {
+    "Name": "Låg til FC12",
+    "Description": "500 stk.",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Låg til FC12 500 stk."
+  },
+  {
+    "Name": "Aftøringspapir z-fold",
+    "Description": "14*200 stk.",
+    "price": "120,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Aftøringspapir z-fold 14*200 stk."
+  },
+  {
+    "Name": "Dispanser til justone",
+    "Description": "",
+    "price": "40,00",
+    "cost": "40,94",
+    "group": "1",
+    "originalName": "Dispanser til justone"
+  },
+  {
+    "Name": "Aluform 510ml R25",
+    "Description": "1000 stk.",
+    "price": "600,00",
+    "cost": "558,18",
+    "group": "1",
+    "originalName": "Aluform 510ml R25 1000 stk."
+  },
+  {
+    "Name": "Låg til aluform 510 ml R25",
+    "Description": "1000 stk",
+    "price": "150,00",
+    "cost": "33,73",
+    "group": "1",
+    "originalName": "Låg til aluform 510 ml R25 1000 stk"
+  },
+  {
+    "Name": "Låg til alu-form 2lt",
+    "Description": "600 stk.",
+    "price": "300,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Låg til alu-form 2lt 600 stk."
+  },
+  {
+    "Name": "Klorin",
+    "Description": "2,5 lt*9 stk.",
+    "price": "150,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Klorin 2,5 lt*9 stk."
+  },
+  {
+    "Name": "Kalyon Likit camasir mak.det.white",
+    "Description": "9*1500 ml",
+    "price": "200,00",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Kalyon Likit camasir mak.det.white 9*1500 ml"
+  },
+  {
+    "Name": "Kalyon opvaskemiddel Æbler",
+    "Description": "750ml 12 stk.",
+    "price": "72,00",
+    "cost": "54,68",
+    "group": "1",
+    "originalName": "Kalyon opvaskemiddel Æbler 750ml 12 stk."
+  },
+  {
+    "Name": "Kalyon Glasrens grøn",
+    "Description": "12*750ml.",
+    "price": "72,00",
+    "cost": "54,00",
+    "group": "1",
+    "originalName": "Kalyon Glasrens grøn 12*750ml."
+  },
+  {
+    "Name": "Kalkfjerner (kireccozucu)",
+    "Description": "1000 ml 12 stk.",
+    "price": "150,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Kalkfjerner (kireccozucu) 1000 ml 12 stk."
+  },
+  {
+    "Name": "Mexico mix",
+    "Description": "4 kg SPAND",
+    "price": "199,95",
+    "cost": "144,00",
+    "group": "1",
+    "originalName": "Mexico mix 4 kg SPAND"
+  },
+  {
+    "Name": "Chili knust uden kerner (ANTEP)",
+    "Description": "1000 gram.",
+    "price": "59,95",
+    "cost": "44,00",
+    "group": "1",
+    "originalName": "Chili knust uden kerner (ANTEP) 1000 gram."
+  },
+  {
+    "Name": "Svampe gul",
+    "Description": "100 stk",
+    "price": "250,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Svampe gul 100 stk"
+  },
+  {
+    "Name": "Toilet papier",
+    "Description": "3x24",
+    "price": "100,00",
+    "cost": "74,09",
+    "group": "1",
+    "originalName": "Toilet papier 3x24"
+  },
+  {
+    "Name": "Salatbox 250ml",
+    "Description": "250stk +låg",
+    "price": "120,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Salatbox 250ml 250stk +låg"
+  },
+  {
+    "Name": "Dild Tøre",
+    "Description": "1kg",
+    "price": "80,00",
+    "cost": "64,00",
+    "group": "1",
+    "originalName": "Dild Tøre 1kg"
+  },
+  {
+    "Name": "Ultra bleach white",
+    "Description": "12*1 lt.",
+    "price": "150,00",
+    "cost": "106,00",
+    "group": "1",
+    "originalName": "Ultra bleach white 12*1 lt."
+  },
+  {
+    "Name": "Kalyon Opvaskemiddel Appelsiner",
+    "Description": "750ml 12 stk.",
+    "price": "80,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Kalyon Opvaskemiddel Appelsiner 750ml 12 stk."
+  },
+  {
+    "Name": "Kalyon Glasrens Gul",
+    "Description": "12*750ml",
+    "price": "80,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Kalyon Glasrens Gul 12*750ml"
+  },
+  {
+    "Name": "Aftørringspapir z-fold",
+    "Description": "14*200 stk",
+    "price": "120,00",
+    "cost": "88,00",
+    "group": "1",
+    "originalName": "Aftørringspapir z-fold 14*200 stk"
+  },
+  {
+    "Name": "Servietter 40*40cm 3 lags hvid",
+    "Description": "",
+    "price": "200,00",
+    "cost": "140,36",
+    "group": "1",
+    "originalName": "Servietter 40*40cm 3 lags hvid"
+  },
+  {
+    "Name": "Foliedispenser t-45cm",
+    "Description": "1 stk./karton",
+    "price": "180,00",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Foliedispenser t-45cm - 1 stk./karton"
+  },
+  {
+    "Name": "Plast rørepinde",
+    "Description": "1000 stk./pk",
+    "price": "75,00",
+    "cost": "69,50",
+    "group": "1",
+    "originalName": "Plast rørepinde -1000 stk./pk"
+  },
+  {
+    "Name": "Aluminiumfolie",
+    "Description": "29cm 11my 4 stk./ks.",
+    "price": "140,00",
+    "cost": "104,00",
+    "group": "1",
+    "originalName": "Aluminiumfolie 29cm 11my 4 stk./ks."
+  },
+  {
+    "Name": "Skuresvampe grøn",
+    "Description": "10 stk.",
+    "price": "25,00",
+    "cost": "12,16",
+    "group": "1",
+    "originalName": "Skuresvampe grøn 10 stk."
+  },
+  {
+    "Name": "Universalklud 38x38cm ass.farver",
+    "Description": "10 stk./pk.",
+    "price": "20,00",
+    "cost": "16,00",
+    "group": "1",
+    "originalName": "Universalklud 38x38cm ass.farver 10 stk./pk."
+  },
+  {
+    "Name": "Hvid mild universal",
+    "Description": "1 L",
+    "price": "20,00",
+    "cost": "14,00",
+    "group": "1",
+    "originalName": "Hvid mild universal 1 L"
+  },
+  {
+    "Name": "VIONE Håndsæbe",
+    "Description": "500 ml. - 12 stk./ks.",
+    "price": "12,00",
+    "cost": "8,00",
+    "group": "1",
+    "originalName": "VIONE Håndsæbe 500 ml. - 12 stk./ks."
+  },
+  {
+    "Name": "Alu-folie",
+    "Description": "45 cm 2200 gr 1x4 stk",
+    "price": "300,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Alu-folie 45 cm 2200 gr 1x4 stk"
+  },
+  {
+    "Name": "Øreafrunding",
+    "Description": "",
+    "price": "1,00",
+    "cost": "0,00",
+    "group": "2",
+    "originalName": "Øreafrunding"
+  },
+  {
+    "Name": "Opvaskemiddel (Bulasik sabunu)",
+    "Description": "500 ml 20 stk",
+    "price": "100,00",
+    "cost": "59,84",
+    "group": "1",
+    "originalName": "Opvaskemiddel ( Bulasik sabunu) 500 ml 20 stk"
+  },
+  {
+    "Name": "Foliedispenser t-30cm",
+    "Description": "1stk./karton",
+    "price": "150,00",
+    "cost": "132,00",
+    "group": "1",
+    "originalName": "Foliedispenser t-30cm -1stk./karton"
+  },
+  {
+    "Name": "Bagerposer 2,0 kg brun",
+    "Description": "200x350mm. -1000 stk./pk.",
+    "price": "180,00",
+    "cost": "104,00",
+    "group": "1",
+    "originalName": "Bagerposer 2,0 kg brun 200x350mm. -1000 stk./pk."
+  },
+  {
+    "Name": "Salatbakke",
+    "Description": "M/hængslet låg ovel 1000 ml 400 stk.",
+    "price": "250,00",
+    "cost": "250,00",
+    "group": "1",
+    "originalName": "Salatbakke M/hængslet låg ovel 1000 ml 400 stk."
+  },
+  {
+    "Name": "Husleje",
+    "Description": "",
+    "price": "1,00",
+    "cost": "1,00",
+    "group": "1",
+    "originalName": "Husleje"
+  },
+  {
+    "Name": "Aliminium folie",
+    "Description": "30 cm 14 my 800gr 1x4 stk",
+    "price": "149,95",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Aliminium folie 30 cm 14 my 800gr 1x4 stk"
+  },
+  {
+    "Name": "VP Grillrens",
+    "Description": "750 ml.pr.stk. indhold pr.kasse 12 stk.",
+    "price": "35,00",
+    "cost": "28,00",
+    "group": "1",
+    "originalName": "VP Grillrens 750 ml.pr.stk. indhold pr.kasse 12 stk."
+  },
+  {
+    "Name": "Viking VEGAN WC Rens",
+    "Description": "sweet pine 750 ml., Stk. pr. pk.",
+    "price": "17,00",
+    "cost": "13,44",
+    "group": "1",
+    "originalName": "Viking VEGAN WC Rens sweet pine 750 ml., Stk. pr. pk."
+  },
+  {
+    "Name": "Pizza Ben",
+    "Description": "3*1000stk",
+    "price": "300,00",
+    "cost": "225,00",
+    "group": "1",
+    "originalName": "Pizza Ben 3*1000stk"
+  },
+  {
+    "Name": "Burgerbox pap medium",
+    "Description": "600stk.",
+    "price": "500,00",
+    "cost": "400,00",
+    "group": "1",
+    "originalName": "Burgerbox pap medium 600stk."
+  },
+  {
+    "Name": "Firkantet salatskål sort",
+    "Description": "750ml 450stk.",
+    "price": "200,00",
+    "cost": "150,00",
+    "group": "1",
+    "originalName": "Firkantet salatskål sort 750ml 450stk."
+  },
+  {
+    "Name": "Låg til Firkantet salatskål",
+    "Description": "450stk.",
+    "price": "200,00",
+    "cost": "150,00",
+    "group": "1",
+    "originalName": "Låg til Firkantet salatskål 450stk."
+  },
+  {
+    "Name": "Box Lid",
+    "Description": "500stk",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Box Lid 500stk"
+  },
+  {
+    "Name": "Hvid tryk papier",
+    "Description": "34*42cm 10 kg",
+    "price": "120,00",
+    "cost": "96,67",
+    "group": "1",
+    "originalName": "Hvid tryk papier 34*42cm 10 kg"
+  },
+  {
+    "Name": "1/2 Gastronorm",
+    "Description": "3600ml 75 stk",
+    "price": "300,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "1/2 Gastronorm 3600ml 75 stk"
+  },
+  {
+    "Name": "1/1 Gastronorm Låg",
+    "Description": "75 stk.",
+    "price": "200,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "1/1 Gastronorm Låg 75 stk."
+  },
+  {
+    "Name": "stålsvamp",
+    "Description": "",
+    "price": "360,00",
+    "cost": "240,00",
+    "group": "1",
+    "originalName": "stålsvamp"
+  },
+  {
+    "Name": "Rabat",
+    "Description": "",
+    "price": "2,00",
+    "cost": "2,21",
+    "group": "1",
+    "originalName": "Rabat"
+  },
+  {
+    "Name": "Alu-Bakke",
+    "Description": "580ml. 185x134x32mm 100 stk./ps. - 1000 stk./ks.",
+    "price": "60,00",
+    "cost": "45,33",
+    "group": "1",
+    "originalName": "Alu-Bakke 580ml. 185x134x32mm 100 stk./ps. - 1000 stk./ks."
+  },
+  {
+    "Name": "Micro 500ml.med-låg",
+    "Description": "500stk.pk.ks",
+    "price": "600,00",
+    "cost": "400,00",
+    "group": "1",
+    "originalName": "Micro 500ml.med-låg 500stk.pk.ks"
+  },
+  {
+    "Name": "Citronsyre",
+    "Description": "1 kg.",
+    "price": "40,00",
+    "cost": "37,00",
+    "group": "1",
+    "originalName": "Citronsyre 1 kg."
+  },
+  {
+    "Name": "Gastronormbakke 1/2",
+    "Description": "2460 ml. -m/rullekant 321x261x38mm",
+    "price": "2,50",
+    "cost": "2,40",
+    "group": "1",
+    "originalName": "Gastronormbakke 1/2 2460 ml. -m/rullekant 321x261x38mm"
+  },
+  {
+    "Name": "BIOTOL Flydende vaskemiddel",
+    "Description": "1000ml. - 12stk./ks.",
+    "price": "16,00",
+    "cost": "11,99",
+    "group": "1",
+    "originalName": "BIOTOL Flydende vaskemiddel 1000ml. - 12stk./ks."
+  },
+  {
+    "Name": "Merian",
+    "Description": "1 kg",
+    "price": "55,00",
+    "cost": "50,40",
+    "group": "1",
+    "originalName": "Merian 1 kg"
+  },
+  {
+    "Name": "Pommes frites krydderi",
+    "Description": "1 gram",
+    "price": "49,95",
+    "cost": "36,00",
+    "group": "1",
+    "originalName": "Pommes frites krydderi 1 gram"
+  },
+  {
+    "Name": "Vinyl-Handskar",
+    "Description": "10x100 stk",
+    "price": "80,00",
+    "cost": "65,85",
+    "group": "1",
+    "originalName": "Vinyl-Handskar 10x100 stk"
+  },
+  {
+    "Name": "Alu-Bakke",
+    "Description": "1900ml. 260x190x50mm 100 stk./ps, -600 stk./ks.",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Alu-Bakke 1900ml. 260x190x50mm 100 stk./ps, -600 stk./ks."
+  },
+  {
+    "Name": "Alukartonlåg t/1900ml.",
+    "Description": "255x185mm 100 stk./ps, -600 stk./ks.",
+    "price": "50,00",
+    "cost": "40,00",
+    "group": "1",
+    "originalName": "Alukartonlåg t/1900ml. 255x185mm 100 stk./ps, -600 stk./ks."
+  },
+  {
+    "Name": "Papirspose 30L, DP",
+    "Description": "brun, uden hank 320x170x450, 200 stk pr.pk.",
+    "price": "250,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Papirspose 30L, DP .,brun, uden hank 320x170x450, 200 stk pr.pk."
+  },
+  {
+    "Name": "Termobakke 1 rums",
+    "Description": "125 stk",
+    "price": "125,00",
+    "cost": "99,00",
+    "group": "1",
+    "originalName": "Termobakke 1 rums  125 stk"
+  },
+  {
+    "Name": "Pølsemandens papir",
+    "Description": "5 kg PERGAMENT 11x21 cm",
+    "price": "130,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Pølsemandens papir 5 kg PERGAMENT 11x21 cm"
+  },
+  {
+    "Name": "Franskbrødpose lille brun",
+    "Description": "1000 stk. 35gsm 120+40x240",
+    "price": "80,00",
+    "cost": "56,00",
+    "group": "1",
+    "originalName": "Franskbrødpose lille brun 1000 stk. 35gsm 120+40x240"
+  },
+  {
+    "Name": "Termobakke 3 rums",
+    "Description": "150 stk.",
+    "price": "180,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Termobakke 3 rums 150 stk."
+  },
+  {
+    "Name": "Rosmarin",
+    "Description": "1 kg.",
+    "price": "60,00",
+    "cost": "64,00",
+    "group": "1",
+    "originalName": "Rosmarin 1 kg."
+  },
+  {
+    "Name": "Falafel Krydderi",
+    "Description": "1 kg.",
+    "price": "50,00",
+    "cost": "36,00",
+    "group": "1",
+    "originalName": "Falafel Krydderi 1 kg."
+  },
+  {
+    "Name": "Begerposer",
+    "Description": "2,5 kg Hvid 210x300 mm -1000 stk./pk.",
+    "price": "200,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Begerposer  2,5 kg Hvid 210x300 mm -1000 stk./pk."
+  },
+  {
+    "Name": "Plast Gaffel",
+    "Description": "sort-100 stk./ps.",
+    "price": "40,00",
+    "cost": "32,49",
+    "group": "1",
+    "originalName": "Plast Gaffel , sort-100 stk./ps."
+  },
+  {
+    "Name": "SIO Glasrens",
+    "Description": "500 ml. -12 stk./ks.",
+    "price": "8,00",
+    "cost": "6,60",
+    "group": "1",
+    "originalName": "SIO Glasrens 500 ml. -12 stk./ks."
+  },
+  {
+    "Name": "Mini Mop Vikan",
+    "Description": "250 g. m/gevind 30 stk./ks.",
+    "price": "20,00",
+    "cost": "14,00",
+    "group": "1",
+    "originalName": "Mini Mop Vikan 250 g. m/gevind 30 stk./ks."
+  },
+  {
+    "Name": "Frugtpose, HDPE, transparent",
+    "Description": "8my, 22x1",
+    "price": "320,00",
+    "cost": "273,08",
+    "group": "1",
+    "originalName": "Frugtpose, HDPE, transparent,8my, 22x1"
+  },
+  {
+    "Name": "Trefod Pizzabord Hvid plast",
+    "Description": "30mm -1000 stk./ks.",
+    "price": "250,00",
+    "cost": "144,00",
+    "group": "1",
+    "originalName": "Trefod Pizzabord Hvid plast 30mm -1000 stk./ks."
+  },
+  {
+    "Name": "Salatbakker 185x185x45, V141 Container/Black",
+    "Description": "450 stk./ks.",
+    "price": "300,00",
+    "cost": "240,00",
+    "group": "1",
+    "originalName": "Salatbakker 185x185x45, V141 Container/Black-450 stk./ks."
+  },
+  {
+    "Name": "Låg t-(V141-V142-V143), 185X185X45 Container/Black",
+    "Description": "450 stk./ks.",
+    "price": "300,00",
+    "cost": "240,00",
+    "group": "1",
+    "originalName": "Låg t-(V141-V142-V143), 185X185X45 Container/Black -450 stk./ks."
+  },
+  {
+    "Name": "Alukartonlåg t/550ml.",
+    "Description": "100 stk./ps.",
+    "price": "20,00",
+    "cost": "16,50",
+    "group": "1",
+    "originalName": "Alukartonlåg t/550ml. 100 stk./ps."
+  },
+  {
+    "Name": "Burgerboks, 12x12x8,2cm, 250 g/m,brun, med hængslet låg, kraft",
+    "Description": "300 stk./ks.",
+    "price": "400,00",
+    "cost": "300,00",
+    "group": "1",
+    "originalName": "Burgerboks, 12x12x8,2cm, 250 g/m,brun, med hængslet låg, kraft-300 stk./ks."
+  },
+  {
+    "Name": "Paptallerkner",
+    "Description": "13x20cm 250 stk pr.ps -6x250 stk./ks.",
+    "price": "160,00",
+    "cost": "130,00",
+    "group": "1",
+    "originalName": "Paptallerkner 13x20cm 250 stk pr.ps -6x250 stk./ks."
+  },
+  {
+    "Name": "Aluminium Folie",
+    "Description": "30cm 14 my 1100 gram 1x4 stk.",
+    "price": "200,00",
+    "cost": "135,00",
+    "group": "1",
+    "originalName": "Aluminium Folie 30cm 14 my 1100 gram 1x4 stk."
+  },
+  {
+    "Name": "Pizza Bærepose STOF",
+    "Description": "40x42+30cm 350stk i kassen",
+    "price": "630,00",
+    "cost": "490,00",
+    "group": "1",
+    "originalName": "Pizza Bærepose STOF 40x42+30cm 350stk i kassen"
+  },
+  {
+    "Name": "Affadssække",
+    "Description": "-70x110ml 10-25 stk./ks.",
+    "price": "200,00",
+    "cost": "130,00",
+    "group": "1",
+    "originalName": "Affadssække -70x110ml 10-25 stk./ks."
+  },
+  {
+    "Name": "Dressingbæger 50 ml, SORT",
+    "Description": "1x1000 stk.",
+    "price": "95,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Dressingbæger 50 ml, SORT, 1x1000 stk."
+  },
+  {
+    "Name": "Dressingbæger 80 ml,SORT",
+    "Description": "1x1000 stk.",
+    "price": "100,00",
+    "cost": "81,90",
+    "group": "1",
+    "originalName": "Dressingbæger 80 ml,SORT, 1x1000 stk."
+  },
+  {
+    "Name": "1-RUMS M/LÅG THERMOBAKKE",
+    "Description": "3X100 STK PR PS",
+    "price": "100,00",
+    "cost": "92,97",
+    "group": "1",
+    "originalName": "1-RUMS M/LÅG THERMOBAKKE 3X100 STK PR PS"
+  },
+  {
+    "Name": "3-RUMS M/LÅG THERMOBAKKE",
+    "Description": "3X100 STK PR PS",
+    "price": "100,00",
+    "cost": "92,38",
+    "group": "1",
+    "originalName": "3-RUMS M/LÅG THERMOBAKKE 3X100 STK PR PS"
+  },
+  {
+    "Name": "Mikrobølgeovnsbakker",
+    "Description": "500 ml +låg farve sort, pr.kasse 250 stk.",
+    "price": "300,00",
+    "cost": "240,00",
+    "group": "1",
+    "originalName": "Mikrobølgeovnsbakker 500 ml +låg farve sort, pr.kasse 250 stk."
+  },
+  {
+    "Name": "Bingo Fresh Pink Dreams Universalrengøring",
+    "Description": "1000 ml, 12 stk.pr.ks",
+    "price": "160,00",
+    "cost": "128,00",
+    "group": "1",
+    "originalName": "Bingo Fresh Pink Dreams Universalrengøring 1000 ml, 12 stk.pr.ks"
+  },
+  {
+    "Name": "Sandwichpose lille durum BRUN",
+    "Description": "1000 stk.",
+    "price": "80,00",
+    "cost": "134,67",
+    "group": "1",
+    "originalName": "Sandwichpose lille durum BRUN 1000 stk."
+  },
+  {
+    "Name": "Burgerboks, Stor , SORT",
+    "Description": "4 x 125 stk.",
+    "price": "250,00",
+    "cost": "180,00",
+    "group": "1",
+    "originalName": "Burgerboks, Stor , SORT , 4 x 125 stk."
+  },
+  {
+    "Name": "Salatbakke sort",
+    "Description": "23x23x5 cm D 4x50 (200) stk.pr. ks.",
+    "price": "350,00",
+    "cost": "378,00",
+    "group": "1",
+    "originalName": "Salatbakke sort 23x23x5 cm D 4x50 (200) stk.pr. ks."
+  },
+  {
+    "Name": "3 Fod til pizza",
+    "Description": "pr pose 10x100 (1000) stk.pr.ks.",
+    "price": "200,00",
+    "cost": "141,33",
+    "group": "1",
+    "originalName": "3 Fod til pizza pr pose 10x100 (1000) stk.pr.ks."
+  },
+  {
+    "Name": "Svamp",
+    "Description": "",
+    "price": "250,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Svamp"
+  },
+  {
+    "Name": "Pommes 1 m/låg",
+    "Description": "1x400 stk.",
+    "price": "250,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Pommes 1 m/låg 1x400 stk."
+  },
+  {
+    "Name": "Pommes 2 m/låg",
+    "Description": "1x400 stk",
+    "price": "250,00",
+    "cost": "110,00",
+    "group": "1",
+    "originalName": "Pommes 2 m/låg 1x400 stk"
+  },
+  {
+    "Name": "Pommes 0 m/låg",
+    "Description": "1x480 stk",
+    "price": "250,00",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Pommes 0 m/låg 1x480 stk"
+  },
+  {
+    "Name": "Plast Ske HVID",
+    "Description": "100 STK.",
+    "price": "35,00",
+    "cost": "29,50",
+    "group": "1",
+    "originalName": "Plast Ske HVID 100 STK."
+  },
+  {
+    "Name": "Opvaskemiddel (Bulasik sabunu)",
+    "Description": "5 liter",
+    "price": "65,00",
+    "cost": "18,00",
+    "group": "1",
+    "originalName": "Opvaskemiddel (Bulasik sabunu) 5 liter"
+  },
+  {
+    "Name": "Biotol skyllemiddel",
+    "Description": "1500ml. -8 stk.pr.ks.",
+    "price": "25,00",
+    "cost": "18,00",
+    "group": "1",
+    "originalName": "Biotol skyllemiddel 1500ml. -8 stk.pr.ks."
+  },
+  {
+    "Name": "Durumpose plastik",
+    "Description": "160x240+30mm. 2000 stk.pr.ks.",
+    "price": "100,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Durumpose plastik 160x240+30mm. 2000 stk.pr.ks."
+  },
+  {
+    "Name": "Alu-Form 570ml",
+    "Description": "1600stk R25",
+    "price": "750,00",
+    "cost": "592,00",
+    "group": "1",
+    "originalName": "Alu-Form 570ml 1600stk R25"
+  },
+  {
+    "Name": "Låg til Alu-Form 570ml",
+    "Description": "1000stk R25",
+    "price": "200,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Låg til Alu-Form 570ml 1000stk R25"
+  },
+  {
+    "Name": "Pizza Bærepose -STOF-",
+    "Description": "125 Stk.pr.ks",
+    "price": "500,00",
+    "cost": "310,00",
+    "group": "1",
+    "originalName": "Pizza  Bærepose -STOF- 125 Stk.pr.ks"
+  },
+  {
+    "Name": "PIZZA POSER",
+    "Description": "1000 STK",
+    "price": "450,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "PIZZA POSER  1000 STK"
+  },
+  {
+    "Name": "NATURE GRILL POSER -STOF Bag",
+    "Description": "30x60+20 cm 125 stk.pr.ks",
+    "price": "450,00",
+    "cost": "125,00",
+    "group": "1",
+    "originalName": "NATURE GRILL POSER -STOF Bag 30x60+20 cm 125 stk.pr.ks"
+  },
+  {
+    "Name": "HAMBURGER BAG STOF",
+    "Description": "26x28+14 cm  300 stk.pr ks.",
+    "price": "420,00",
+    "cost": "297,49",
+    "group": "1",
+    "originalName": "HAMBURGER BAG STOF 26x28+14 cm  300 stk.pr ks."
+  },
+  {
+    "Name": "PIZZA BÆREPOSE STOF",
+    "Description": "225 stk.pr.ks",
+    "price": "400,00",
+    "cost": "325,00",
+    "group": "1",
+    "originalName": "PIZZA BÆREPOSE  STOF 225 stk.pr.ks"
+  },
+  {
+    "Name": "Lunch box, stor",
+    "Description": "300 stk.pr.ks.",
+    "price": "450,00",
+    "cost": "358,00",
+    "group": "1",
+    "originalName": "Lunch box, stor 300 stk.pr.ks."
+  },
+  {
+    "Name": "Sesam Saat",
+    "Description": "500 gram",
+    "price": "25,00",
+    "cost": "22,50",
+    "group": "1",
+    "originalName": "Sesam Saat 500 gram"
+  },
+  {
+    "Name": "Bagerposer 0,25 kg brun",
+    "Description": "140x190mm- 1000 stk./pk.kl",
+    "price": "80,00",
+    "cost": "76,00",
+    "group": "1",
+    "originalName": "Bagerposer 0,25 kg brun 140x190mm- 1000 stk./pk.kl"
+  },
+  {
+    "Name": "Salat skåle BRUN PAP",
+    "Description": "1000ml - 300 stk./ks",
+    "price": "450,00",
+    "cost": "330,00",
+    "group": "1",
+    "originalName": "Salat skåle BRUN PAP 1000ml - 300 stk./ks"
+  },
+  {
+    "Name": "Låg -salatskåle",
+    "Description": "1000ml -300 stk/ks",
+    "price": "300,00",
+    "cost": "235,00",
+    "group": "1",
+    "originalName": "Låg -salatskåle 1000ml -300 stk/ks"
+  },
+  {
+    "Name": "caffe to gå",
+    "Description": "8oz 1000 stk.",
+    "price": "400,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "caffe to gå 8oz 1000 stk."
+  },
+  {
+    "Name": "Låg til salatbakke 6228 & 6229",
+    "Description": "",
+    "price": "180,00",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Låg til salatbakke 6228 & 6229"
+  },
+  {
+    "Name": "Plastik kop 0,20 PP hvid",
+    "Description": "3000 stk.",
+    "price": "450,00",
+    "cost": "350,00",
+    "group": "1",
+    "originalName": "Plastik kop 0,20 PP hvid 3000 stk."
+  },
+  {
+    "Name": "Smoothie glas, klar, blød",
+    "Description": "30cl-50 stk./ps.1000stk./ks",
+    "price": "1 400,00",
+    "cost": "969,40",
+    "group": "1",
+    "originalName": "Smoothie glas, klar, blød, 30cl-50 stk./ps.1000stk./ks"
+  },
+  {
+    "Name": "Vokspapir",
+    "Description": "39x48cm 10kg .pr.ks",
+    "price": "200,00",
+    "cost": "160,00",
+    "group": "1",
+    "originalName": "Vokspapir 39x48cm 10kg .pr.ks"
+  },
+  {
+    "Name": "Mini tork",
+    "Description": "12 stk",
+    "price": "100,00",
+    "cost": "45,82",
+    "group": "1",
+    "originalName": "Mini tork 12 stk"
+  },
+  {
+    "Name": "Ripple cup",
+    "Description": "12 oz  24*25stk",
+    "price": "980,00",
+    "cost": "720,00",
+    "group": "1",
+    "originalName": "Ripple cup 12 oz  24*25stk"
+  },
+  {
+    "Name": "Ripple cup",
+    "Description": "16 oz 24*25stk",
+    "price": "875,00",
+    "cost": "840,00",
+    "group": "1",
+    "originalName": "Ripple cup 16 oz 24*25stk"
+  },
+  {
+    "Name": "Tork medium",
+    "Description": "6 stk./ks",
+    "price": "100,00",
+    "cost": "47,69",
+    "group": "1",
+    "originalName": "Tork medium 6 stk./ks"
+  },
+  {
+    "Name": "Tat Tomatpure",
+    "Description": "830 gr.x12 stk.pr.ks.",
+    "price": "10,00",
+    "cost": "8,00",
+    "group": "1",
+    "originalName": "Tat Tomatpure 830 gr.x12 stk.pr.ks."
+  },
+  {
+    "Name": "Gurkemeje",
+    "Description": "1000 gram.",
+    "price": "50,00",
+    "cost": "40,75",
+    "group": "1",
+    "originalName": "Gurkemeje 1000 gram."
+  },
+  {
+    "Name": "Klodbundspose Brun",
+    "Description": "32x17x43cm -350 stk./ks.",
+    "price": "450,00",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Klodbundspose Brun 32x17x43cm -350 stk./ks."
+  },
+  {
+    "Name": "Microbakke m/låg",
+    "Description": "PP 750 ml. sort-250stk./ks.",
+    "price": "300,00",
+    "cost": "245,00",
+    "group": "1",
+    "originalName": "Microbakke m/låg PP 750 ml. sort-250stk./ks."
+  },
+  {
+    "Name": "Nezoru",
+    "Description": "1L",
+    "price": "25,00",
+    "cost": "10,00",
+    "group": "1",
+    "originalName": "Nezoru 1L"
+  },
+  {
+    "Name": "Pappirpose uden hank",
+    "Description": "17 L 250 stk./ks",
+    "price": "350,00",
+    "cost": "130,00",
+    "group": "1",
+    "originalName": "Pappirpose uden hank 17 L 250 stk./ks"
+  },
+  {
+    "Name": "Alubakke",
+    "Description": "4 liter 100 stk.",
+    "price": "350,00",
+    "cost": "320,00",
+    "group": "1",
+    "originalName": "Alubakke 4 liter 100 stk."
+  },
+  {
+    "Name": "Burgerbox PAP",
+    "Description": "400stk.pr.ks",
+    "price": "399,95",
+    "cost": "276,00",
+    "group": "1",
+    "originalName": "Burgerbox PAP  400stk.pr.ks"
+  },
+  {
+    "Name": "Klodbundspose 30l Brun",
+    "Description": "papir uden hank 250 stk.",
+    "price": "300,00",
+    "cost": "239,43",
+    "group": "1",
+    "originalName": "Klodbundspose 30l Brun papir uden hank 250 stk."
+  },
+  {
+    "Name": "Salatbakke",
+    "Description": "19x19 1x270 stk.pr.ks",
+    "price": "600,00",
+    "cost": "520,00",
+    "group": "1",
+    "originalName": "Salatbakke 19x19 1x270 stk.pr.ks"
+  },
+  {
+    "Name": "Drikkeglas klar PET",
+    "Description": "40 cl, 100 stk.pr.ks",
+    "price": "160,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Drikkeglas klar PET 40 cl, 100 stk.pr.ks"
+  },
+  {
+    "Name": "Skyllemiddel Rose & Lilly",
+    "Description": "pr kasse",
+    "price": "200,00",
+    "cost": "169,08",
+    "group": "1",
+    "originalName": "Skyllemiddel Rose & Lilly pr kasse"
+  },
+  {
+    "Name": "Låg med hul",
+    "Description": "1000 stk.pr.ks",
+    "price": "350,00",
+    "cost": "280,00",
+    "group": "1",
+    "originalName": "Låg med hul 1000 stk.pr.ks"
+  },
+  {
+    "Name": "NW Pizza pose ECO",
+    "Description": "390X350X260  100 STK.",
+    "price": "250,00",
+    "cost": "179,70",
+    "group": "1",
+    "originalName": "NW Pizza pose ECO 390X350X260  100 STK."
+  },
+  {
+    "Name": "Handsker nitrile XL",
+    "Description": "100 stk",
+    "price": "50,00",
+    "cost": "15,00",
+    "group": "1",
+    "originalName": "Handsker nitrile XL100 stk"
+  },
+  {
+    "Name": "Menubox",
+    "Description": "240x210x70 mm 2x100 stk/ks",
+    "price": "199,95",
+    "cost": "112,00",
+    "group": "1",
+    "originalName": "Menubox 240x210x70 mm 2x100 stk/ks"
+  },
+  {
+    "Name": "Hvidt Tryk",
+    "Description": "39x48  10 kg Stor",
+    "price": "110,00",
+    "cost": "88,00",
+    "group": "1",
+    "originalName": "Hvidt Tryk 39x48  10 kg Stor"
+  },
+  {
+    "Name": "Opvaskemiddel",
+    "Description": "750 ml 1x12 stk. pr. kasse",
+    "price": "100,00",
+    "cost": "89,33",
+    "group": "1",
+    "originalName": "Opvaskemiddel 750 ml 1x12 stk. pr. kasse"
+  },
+  {
+    "Name": "Glasrens",
+    "Description": "750 ml 1x12 stk. pr. kasse",
+    "price": "100,00",
+    "cost": "89,65",
+    "group": "1",
+    "originalName": "Glasrens 750 ml 1x12 stk. pr. kasse"
+  },
+  {
+    "Name": "Frugtpose",
+    "Description": "12 l  klar 200 stk.pr.rulle",
+    "price": "15,00",
+    "cost": "12,00",
+    "group": "1",
+    "originalName": "Frugtpose 12 l  klar 200 stk.pr.rulle"
+  },
+  {
+    "Name": "Salatbakke",
+    "Description": "23x23 1x190 stk.pr.kasse",
+    "price": "550,00",
+    "cost": "520,00",
+    "group": "1",
+    "originalName": "Salatbakke 23x23 1x190 stk.pr.kasse"
+  },
+  {
+    "Name": "Microbakke",
+    "Description": "650ml 500stk pr kasse PP",
+    "price": "400,00",
+    "cost": "300,00",
+    "group": "1",
+    "originalName": "Microbakke 650ml 500stk pr kasse PP"
+  },
+  {
+    "Name": "Låg til microbakke",
+    "Description": "500--1000 ml PP 500 stk pr kasse",
+    "price": "300,00",
+    "cost": "232,00",
+    "group": "1",
+    "originalName": "Låg til microbakke 500--1000 ml PP 500 stk pr kasse"
+  },
+  {
+    "Name": "Klodsbundspose brun",
+    "Description": "22x12x30cm - 500 stk./ks.",
+    "price": "400,00",
+    "cost": "0,00",
+    "group": "1",
+    "originalName": "Klodsbundspose brun 22x12x30cm - 500 stk./ks."
+  },
+  {
+    "Name": "Microbakke",
+    "Description": "750ml 500 stk pr kasse",
+    "price": "399,95",
+    "cost": "316,00",
+    "group": "1",
+    "originalName": "Microbakke 750ml 500 stk pr kasse"
+  },
+  {
+    "Name": "Grill poser-BRUN-(varmposer)",
+    "Description": "160x60x315mm-250stk./pk",
+    "price": "140,00",
+    "cost": "92,00",
+    "group": "1",
+    "originalName": "Grill poser-BRUN-(varmposer)160x60x315mm-250stk./pk"
+  },
+  {
+    "Name": "LONG Z Fold Dispanser",
+    "Description": "Papier hånkleder 12 Pk/pk, 200 Stk, 20X21CM",
+    "price": "150,00",
+    "cost": "88,00",
+    "group": "1",
+    "originalName": "LONG Z Fold Dispanser Papier hånkleder 12 Pk/pk, 200 Stk, 20X21CM"
+  },
+  {
+    "Name": "Isot Papper",
+    "Description": "1000 gr",
+    "price": "69,95",
+    "cost": "52,23",
+    "group": "1",
+    "originalName": "Isot Papper 1000 gr"
+  },
+  {
+    "Name": "Låg til Alubakke",
+    "Description": "4 liter 100 stk.",
+    "price": "239,95",
+    "cost": "206,00",
+    "group": "1",
+    "originalName": "Låg til Alubakke 4 liter 100 stk."
+  },
+  {
+    "Name": "Dressingbæger med hængslet låg",
+    "Description": "80 ml - 1000 stk./ks.",
+    "price": "299,95",
+    "cost": "137,00",
+    "group": "1",
+    "originalName": "Dressingbæger med hængslet låg 80 ml - 1000 stk./ks."
+  },
+  {
+    "Name": "Burgerpapir brun",
+    "Description": "30x40cm 1000stk - 4 kg. /pk.",
+    "price": "129,95",
+    "cost": "88,00",
+    "group": "1",
+    "originalName": "Burgerpapir brun  30x40cm 1000stk - 4 kg. /pk."
+  },
+  {
+    "Name": "Pergamentpapir",
+    "Description": "220x280mm - 2,77kg",
+    "price": "69,95",
+    "cost": "50,00",
+    "group": "1",
+    "originalName": "Pergamentpapir 220x280mm - 2,77kg"
+  },
+  {
+    "Name": "Sugerør",
+    "Description": "20,5cm Q6mm, papir sort 20x250stk. /ks",
+    "price": "59,95",
+    "cost": "38,48",
+    "group": "1",
+    "originalName": "Sugerør 20,5cm Q6mm, papir sort 20x250stk. /ks"
+  },
+  {
+    "Name": "BIOTOL All Round sæbe LAVENDER",
+    "Description": "- 12 stk. /ks.",
+    "price": "14,95",
+    "cost": "12,00",
+    "group": "1",
+    "originalName": "BIOTOL All Round sæbe LAVENDER  - 12 stk. /ks."
+  },
+  {
+    "Name": "Plastbakke",
+    "Description": "23x23x5cm, 1000 ml, sort,PS, med hængslet låg, octaview",
+    "price": "799,95",
+    "cost": "0,00",
+    "group": "1",
+    "originalName": "Plastbakke, 23x23x5cm, 1000 ml, sort,PS, med hængslet låg, octaview"
+  },
+  {
+    "Name": "Bagerposer",
+    "Description": "1,5 kg brun 210x300 mm -1000 stk./pk.",
+    "price": "129,95",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Bagerposer 1,5 kg brun 210x300 mm -1000 stk./pk."
+  },
+  {
+    "Name": "Multiboks med låg",
+    "Description": "sort /klar , 230x230x80mm - 180 stk./ks.",
+    "price": "799,95",
+    "cost": "610,00",
+    "group": "1",
+    "originalName": "Multiboks med låg, sort /klar , 230x230x80mm - 180 stk./ks."
+  },
+  {
+    "Name": "Plastkrus Brun",
+    "Description": "21 cl - 100 stk./ps. 3000 stk./ks.",
+    "price": "59,95",
+    "cost": "44,00",
+    "group": "1",
+    "originalName": "Plastkrus Brun-21 cl - 100 stk./ps. 3000 stk./ks."
+  },
+  {
+    "Name": "Klodsbundspose Brun",
+    "Description": "32x17x43cm - 350 stk./ks.",
+    "price": "469,95",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Klodsbundspose Brun 32x17x43cm - 350 stk./ks."
+  },
+  {
+    "Name": "Enmotion Towel Rolls",
+    "Description": "2-lags 25 cm. 140 m. , 6 stk.pr.ks.",
+    "price": "250,00",
+    "cost": "180,00",
+    "group": "1",
+    "originalName": "Enmotion Towel Rolls 2-lags 25 cm. 140 m. , 6 stk.pr.ks."
+  },
+  {
+    "Name": "Pommes Frites Bakke 01 BRUN",
+    "Description": "100 stk.pr.ps. 500 stk. pr.ks.",
+    "price": "70,00",
+    "cost": "55,00",
+    "group": "1",
+    "originalName": "Pommes Frites Bakke 01 BRUN, 100 stk.pr.ps. 500 stk. pr.ks."
+  },
+  {
+    "Name": "Transparent spandepose, HD.",
+    "Description": "50 ltr., 60 x 85 cm. 7 my , 40 stk. x 40 rl.",
+    "price": "500,00",
+    "cost": "405,00",
+    "group": "1",
+    "originalName": "Transparent spandepose, HD. 50 ltr., 60 x 85 cm. 7 my , 40 stk. x 40 rl."
+  },
+  {
+    "Name": "Smørrebrødsbakke",
+    "Description": "2 rum 345 stk",
+    "price": "400,00",
+    "cost": "330,00",
+    "group": "1",
+    "originalName": "Smørrebrødsbakke 2 rum 345 stk"
+  },
+  {
+    "Name": "Aluminiumfolie Box",
+    "Description": "1x4 stk./ks.",
+    "price": "35,00",
+    "cost": "28,52",
+    "group": "1",
+    "originalName": "Aluminiumfolie Box  1x4 stk./ks."
+  },
+  {
+    "Name": "Termoboks 1-rum",
+    "Description": "1x100 stk XPS",
+    "price": "125,00",
+    "cost": "72,09",
+    "group": "1",
+    "originalName": "Termoboks 1-rum 1x100 stk XPS"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "24x24  4000 stk.",
+    "price": "160,00",
+    "cost": "135,43",
+    "group": "1",
+    "originalName": "Servietter 24x24  4000 stk."
+  },
+  {
+    "Name": "Portionsbæger T100",
+    "Description": "1oz 30ml, sort,ps, uden låg -5000 stk./ks.m",
+    "price": "250,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Portionsbæger T100 1oz 30ml, sort,ps, uden låg -5000 stk./ks.m"
+  },
+  {
+    "Name": "Sortkommen nigellafrø",
+    "Description": "1 kg",
+    "price": "80,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Sortkommen nigellafrø 1 kg"
+  },
+  {
+    "Name": "Alu-bakke 3-rums",
+    "Description": "100 stk./pk.",
+    "price": "140,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Alu-bakke 3-rums  - 100 stk./pk."
+  },
+  {
+    "Name": "Hårnet",
+    "Description": "200 stk pr pakke",
+    "price": "120,00",
+    "cost": "96,00",
+    "group": "1",
+    "originalName": "Hårnet 200 stk pr pakke"
+  },
+  {
+    "Name": "Old News papir",
+    "Description": "pr kasse",
+    "price": "350,00",
+    "cost": "264,00",
+    "group": "1",
+    "originalName": "Old News papir pr kasse"
+  },
+  {
+    "Name": "Teske liibre Flergangsbestik",
+    "Description": "pr kasse",
+    "price": "300,00",
+    "cost": "240,00",
+    "group": "1",
+    "originalName": "Teske liibre Flergangsbestik pr kasse"
+  },
+  {
+    "Name": "One By One Servietter (justone)",
+    "Description": "1x3840 stk",
+    "price": "150,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "One By One Servietter (justone) 1x3840 stk"
+  },
+  {
+    "Name": "Klorin",
+    "Description": "750 ml",
+    "price": "8,00",
+    "cost": "6,00",
+    "group": "1",
+    "originalName": "Klorin 750 ml"
+  },
+  {
+    "Name": "Sugerør ø7x200 mm Papir",
+    "Description": "sort 250 stk",
+    "price": "50,00",
+    "cost": "40,00",
+    "group": "1",
+    "originalName": "Sugerør ø7x200 mm Papir sort 250 stk"
+  },
+  {
+    "Name": "Dønerbox firkant",
+    "Description": "pr kasse",
+    "price": "250,00",
+    "cost": "192,00",
+    "group": "1",
+    "originalName": "Dønerbox firkant pr kasse"
+  },
+  {
+    "Name": "Salatbox med låg",
+    "Description": "125 gr 250 stk pr kasse",
+    "price": "150,00",
+    "cost": "112,00",
+    "group": "1",
+    "originalName": "Salatbox med låg 125 gr 250 stk pr kasse"
+  },
+  {
+    "Name": "Toiletpapir",
+    "Description": "1x64 stk",
+    "price": "125,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Toiletpapir 1x64 stk"
+  },
+  {
+    "Name": "Dankort rulle",
+    "Description": "57x12 18 m  1x60 stk",
+    "price": "150,00",
+    "cost": "96,00",
+    "group": "1",
+    "originalName": "Dankort rulle 57x12 18 m  1x60 stk"
+  },
+  {
+    "Name": "Termoboks 3-rum",
+    "Description": "1x100 stk XPS INDE",
+    "price": "125,00",
+    "cost": "97,92",
+    "group": "1",
+    "originalName": "Termoboks 3-rum 1x100 stk XPS INDE"
+  },
+  {
+    "Name": "Salatbakke PAP Brun Med låg",
+    "Description": "750ml 1x300 stk",
+    "price": "600,00",
+    "cost": "540,00",
+    "group": "1",
+    "originalName": "Salatbakke PAP Brun Med låg 750ml 1x300 stk"
+  },
+  {
+    "Name": "Burgerlommer",
+    "Description": "14x14 cm lille 1000 stk BRUN",
+    "price": "80,00",
+    "cost": "73,41",
+    "group": "1",
+    "originalName": "Burgerlommer 14x14 cm lille 1000 stk BRUN"
+  },
+  {
+    "Name": "Salatbox Oval",
+    "Description": "375 cc  800 stk.pr.ks",
+    "price": "350,00",
+    "cost": "176,36",
+    "group": "1",
+    "originalName": "Salatbox Oval 375 cc  800 stk.pr.ks"
+  },
+  {
+    "Name": "Pom box",
+    "Description": "16 OZ  480 ml 10x50 stk pr karton",
+    "price": "250,00",
+    "cost": "157,69",
+    "group": "1",
+    "originalName": "Pom box 16 OZ  480 ml 10x50 stk pr karton"
+  },
+  {
+    "Name": "Serviet 2-lags,hvid",
+    "Description": "24x24cm -2400 stk.pr.ks",
+    "price": "250,00",
+    "cost": "191,43",
+    "group": "1",
+    "originalName": "Serviet 2-lags,hvid, 24x24cm -2400 stk.pr.ks"
+  },
+  {
+    "Name": "Bestiklommer BRUN m-tryk",
+    "Description": "70x40x270mm -1000 stk.ks",
+    "price": "130,00",
+    "cost": "99,56",
+    "group": "1",
+    "originalName": "Bestiklommer BRUN m-tryk 70x40x270mm -1000 stk.ks"
+  },
+  {
+    "Name": "Klodsbundspose brun papir uden hank",
+    "Description": "16 L",
+    "price": "180,00",
+    "cost": "144,00",
+    "group": "1",
+    "originalName": "Klodsbundspose brun papir uden hank 16 L"
+  },
+  {
+    "Name": "Ramløse m.brus,glas",
+    "Description": "0.33 l., 20 stk.",
+    "price": "160,00",
+    "cost": "138,00",
+    "group": "1",
+    "originalName": "Ramløse m.brus,glas, 0.33 l., 20 stk."
+  },
+  {
+    "Name": "Take away boks",
+    "Description": "7x8,5x10,5cm, 700 ml, 250g/m2,brun,kraft,stor",
+    "price": "260,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Take away boks 7x8,5x10,5cm, 700 ml, 250g/m2,brun,kraft,stor"
+  },
+  {
+    "Name": "Vakum posser",
+    "Description": "200*250 500 stk",
+    "price": "488,00",
+    "cost": "0,00",
+    "group": "1",
+    "originalName": "Vakum posser 200*250 500 stk"
+  },
+  {
+    "Name": "Skråhue Hvid",
+    "Description": "100 stk.",
+    "price": "160,00",
+    "cost": "125,00",
+    "group": "1",
+    "originalName": "Skråhue Hvid, 100 stk."
+  },
+  {
+    "Name": "Maskinopvask u/klor",
+    "Description": "13 kg.",
+    "price": "150,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Maskinopvask u/klor 13 kg."
+  },
+  {
+    "Name": "Slagterpapir 1/4 m/farve",
+    "Description": "37,5x50cm - 12,5 kg.",
+    "price": "260,00",
+    "cost": "220,00",
+    "group": "1",
+    "originalName": "Slagterpapir 1/4 m/farve 37,5x50cm - 12,5 kg."
+  },
+  {
+    "Name": "Serviet 3-lags, 1/4 fold creme",
+    "Description": "33x33cm-1000 stk./ks.",
+    "price": "250,00",
+    "cost": "192,50",
+    "group": "1",
+    "originalName": "Serviet 3-lags, 1/4 fold creme -33x33cm-1000 stk./ks."
+  },
+  {
+    "Name": "Pergamentpapir",
+    "Description": "12,5 kg",
+    "price": "299,95",
+    "cost": "230,59",
+    "group": "1",
+    "originalName": "Pergamentpapir 12,5 kg"
+  },
+  {
+    "Name": "Aliminiumfolie",
+    "Description": "14my, 800 gr Spesial 1x4 stk",
+    "price": "125,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Aliminiumfolie 14my, 800 gr Spesial 1x4 stk"
+  },
+  {
+    "Name": "Afspændingsmiddel",
+    "Description": "5 L",
+    "price": "120,00",
+    "cost": "96,00",
+    "group": "1",
+    "originalName": "Afspændingsmiddel 5 L"
+  },
+  {
+    "Name": "Niyella (corek otu )",
+    "Description": "",
+    "price": "70,00",
+    "cost": "56,00",
+    "group": "1",
+    "originalName": "Niyella (corek otu )"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "24x24 3000 stk.",
+    "price": "175,00",
+    "cost": "140,00",
+    "group": "1",
+    "originalName": "Servietter 24x24 3000 stk."
+  },
+  {
+    "Name": "Salatbakke PAP BRUN 1300 ML Med låg",
+    "Description": "1x100 stk.",
+    "price": "250,00",
+    "cost": "197,33",
+    "group": "1",
+    "originalName": "Salatbakke PAP BRUN 1300 ML Med låg 1x100 stk."
+  },
+  {
+    "Name": "NW Grille pose",
+    "Description": "3920x2800x1800  100 stk",
+    "price": "200,00",
+    "cost": "148,28",
+    "group": "1",
+    "originalName": "NW Grille pose 3920x2800x1800  100 stk"
+  },
+  {
+    "Name": "Plastbakke",
+    "Description": "1400 ml 7 rum",
+    "price": "3,00",
+    "cost": "0,00",
+    "group": "1",
+    "originalName": "Plastbakke 1400 ml 7 rum"
+  },
+  {
+    "Name": "Låg",
+    "Description": "til plastbakke  7 -rum",
+    "price": "2,00",
+    "cost": "0,00",
+    "group": "1",
+    "originalName": "Låg til plastbakke  7 -rum"
+  },
+  {
+    "Name": "Salatbakke",
+    "Description": "3 rum klar med hængsletlåg 264 stk pr kasse",
+    "price": "450,00",
+    "cost": "360,00",
+    "group": "1",
+    "originalName": "Salatbakke 3 rum klar med hængsletlåg 264 stk pr kasse"
+  },
+  {
+    "Name": "Svampe professionel",
+    "Description": "10 stk",
+    "price": "20,00",
+    "cost": "12,00",
+    "group": "1",
+    "originalName": "Svampe professionel 10 stk"
+  },
+  {
+    "Name": "Maskineopvask",
+    "Description": "u/klor 12 kg",
+    "price": "100,00",
+    "cost": "60,00",
+    "group": "1",
+    "originalName": "Maskineopvask u/klor 12 kg"
+  },
+  {
+    "Name": "Grydesvamp",
+    "Description": "60g 10 stk",
+    "price": "50,00",
+    "cost": "32,50",
+    "group": "1",
+    "originalName": "Grydesvamp 60g 10 stk"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "40x40 2-lag 1400 stk,",
+    "price": "140,00",
+    "cost": "160,83",
+    "group": "1",
+    "originalName": "Servietter 40x40 2-lag 1400 stk,"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "3-lags, 1/4 fold, 40x40cm-1000 stk.",
+    "price": "200,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "Servietter 3-lags, 1/4 fold, 40x40cm-1000 stk."
+  },
+  {
+    "Name": "Gastronormbakke",
+    "Description": "1/1 9600ml. -m/rullekant 526x325x85mm",
+    "price": "5,00",
+    "cost": "3,80",
+    "group": "1",
+    "originalName": "Gastronormbakke 1/1 9600ml. -m/rullekant 526x325x85mm"
+  },
+  {
+    "Name": "Flergangsgaffel sort",
+    "Description": "18cm 100 stk, 1000 stk/ks",
+    "price": "40,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Flergangsgaffel sort 18cm 100 stk, 1000 stk/ks"
+  },
+  {
+    "Name": "Ripple cup",
+    "Description": "12oz,355ml brun 20x25 stk-",
+    "price": "40,00",
+    "cost": "32,00",
+    "group": "1",
+    "originalName": "Ripple cup 12oz,355ml brun 20x25 stk-"
+  },
+  {
+    "Name": "Kebab boks",
+    "Description": "26oz firkant kare-400 stk./ks.",
+    "price": "500,00",
+    "cost": "380,00",
+    "group": "1",
+    "originalName": "Kebab boks 26oz firkant kare-400 stk./ks."
+  },
+  {
+    "Name": "Sens servietter",
+    "Description": "24x26 3200 stk",
+    "price": "125,00",
+    "cost": "90,00",
+    "group": "1",
+    "originalName": "Sens servietter 24x26 3200 stk"
+  },
+  {
+    "Name": "Servietter",
+    "Description": "40x40 2-lag 1000 stk,",
+    "price": "199,95",
+    "cost": "125,00",
+    "group": "1",
+    "originalName": "Servietter 40x40 2-lag 1000 stk,"
+  },
+  {
+    "Name": "Glasrens",
+    "Description": "1000ml - 12 stk./ks.",
+    "price": "13,00",
+    "cost": "10,00",
+    "group": "1",
+    "originalName": "Glasrens 1000ml - 12 stk./ks."
+  },
+  {
+    "Name": "Servietter",
+    "Description": "3-lags, 1/4 fold, 33x33cm-1000 stk.",
+    "price": "250,00",
+    "cost": "200,00",
+    "group": "1",
+    "originalName": "Servietter 3-lags, 1/4 fold, 33x33cm-1000 stk."
+  },
+  {
+    "Name": "GRILL POSER",
+    "Description": "1000 STK",
+    "price": "350,00",
+    "cost": "120,00",
+    "group": "1",
+    "originalName": "GRILL POSER 1000 STK"
+  },
+  {
+    "Name": "Burgerlommer",
+    "Description": "16x16 cm lille  BRUN",
+    "price": "80,00",
+    "cost": "17,10",
+    "group": "1",
+    "originalName": "Burgerlommer 16x16 cm lille  BRUN"
+  },
+  {
+    "Name": "Gazoz",
+    "Description": "20 stk",
+    "price": "120,00",
+    "cost": "93,00",
+    "group": "1",
+    "originalName": "Gazoz 20 stk"
+  },
+  {
+    "Name": "Rolle pose",
+    "Description": "3 lt 4000 stk",
+    "price": "450,00",
+    "cost": "170,00",
+    "group": "1",
+    "originalName": "Rolle pose 3 lt 4000 stk"
+  },
+  {
+    "Name": "Kliché/farve",
+    "Description": "",
+    "price": "1 200,00",
+    "cost": "600,00",
+    "group": "1",
+    "originalName": "Kliché/farve"
+  },
+  {
+    "Name": "Toilet papir",
+    "Description": "24 pack 4*24stk",
+    "price": "99,95",
+    "cost": "70,00",
+    "group": "1",
+    "originalName": "Toilet papir 24 pack 4*24stk"
+  },
+  {
+    "Name": "Bagasse rund tallerken",
+    "Description": "26 cm *50 stk",
+    "price": "48,00",
+    "cost": "35,00",
+    "group": "1",
+    "originalName": "Bagasse rund tallerken 26 cm *50 stk"
+  },
+  {
+    "Name": "Bagasse oval",
+    "Description": "254*191 50 stk",
+    "price": "45,00",
+    "cost": "29,00",
+    "group": "1",
+    "originalName": "Bagasse oval 254*191 50 stk"
+  },
+  {
+    "Name": "Klorin",
+    "Description": "1ltx12 stk",
+    "price": "120,00",
+    "cost": "80,00",
+    "group": "1",
+    "originalName": "Klorin 1ltx12 stk"
+  },
+  {
+    "Name": "Asya kildevand",
+    "Description": "12x500ml",
+    "price": "50,00",
+    "cost": "30,00",
+    "group": "1",
+    "originalName": "Asya kildevand 12x500ml"
+  },
+  {
+    "Name": "Pizzæske",
+    "Description": "29x29 100 stk",
+    "price": "99,95",
+    "cost": "83,00",
+    "group": "1",
+    "originalName": "Pizzæske 29x29 100 stk"
+  },
+  {
+    "Name": "Pizzæske",
+    "Description": "30x30 100 stk",
+    "price": "99,95",
+    "cost": "83,00",
+    "group": "1",
+    "originalName": "Pizzæske 30x30 100 stk"
+  },
+  {
+    "Name": "Pappirpose uden hank",
+    "Description": "18x10x27 500 stk./ks",
+    "price": "400,00",
+    "cost": "260,00",
+    "group": "1",
+    "originalName": "Pappirpose uden hank 18x10x27 500 stk./ks"
+  },
+  {
+    "Name": "Plastbakke Sort P2274-1B",
+    "Description": "124 STK",
+    "price": "340,00",
+    "cost": "270,00",
+    "group": "1",
+    "originalName": "Plastbakke Sort P2274-1B 124 STK"
+  },
+  {
+    "Name": "Plastbakke Sort P 2325-50",
+    "Description": "100 stk",
+    "price": "468,00",
+    "cost": "310,00",
+    "group": "1",
+    "originalName": "Plastbakke Sort P 2325-50 100 stk"
+  },
+  {
+    "Name": "Plastbakke 2190 -43S",
+    "Description": "sort MO-PP 269*196*43mm 276 stk",
+    "price": "765,00",
+    "cost": "480,00",
+    "group": "1",
+    "originalName": "Plastbakke 2190 -43S sort MO-PP 269*196*43mm 276 stk"
+  },
+  {
+    "Name": "Plastbakke 2190-43S",
+    "Description": "MO-PP 190*144*43mm 496 STK",
+    "price": "580,00",
+    "cost": "400,00",
+    "group": "1",
+    "originalName": "Plastbakke 2190-43S MO-PP 190*144*43mm 496 STK"
+  },
+  {
+    "Name": "Plastbakke K81-43S",
+    "Description": "MO-PP 261*162*42mm 324stk",
+    "price": "549,00",
+    "cost": "400,00",
+    "group": "1",
+    "originalName": "Plastbakke K81-43S MO-PP 261*162*42mm 324stk"
+  },
+  {
+    "Name": "Plastbakke M78-A",
+    "Description": "220*170*49MM 496 stk",
+    "price": "765,00",
+    "cost": "650,00",
+    "group": "1",
+    "originalName": "Plastbakke M78-A 220*170*49MM 496 stk"
+  },
+  {
+    "Name": "Skumbakke hvid 1-rum",
+    "Description": "m hængslet låg 100stk",
+    "price": "129,00",
+    "cost": "100,00",
+    "group": "1",
+    "originalName": "Skumbakke hvid 1-rum m hængslet låg 100stk"
+  },
+  {
+    "Name": "Serviette 40*40",
+    "Description": "1000 stk bordeaux",
+    "price": "285,00",
+    "cost": "158,00",
+    "group": "1",
+    "originalName": "Serviette 40*40 1000 stk bordeaux"
+  },
+  {
+    "Name": "Serviette 40*40 1/4",
+    "Description": "1000 stk creme",
+    "price": "285,00",
+    "cost": "158,00",
+    "group": "1",
+    "originalName": "Serviette 40*40 1/4 1000 stk creme"
+  }
+]
